@@ -1,0 +1,11 @@
+{
+  "status": "optimal_inaccurate",
+  "error": null,
+  "seconds": 0.006100800121203065,
+  "warnings": [
+    "Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information."
+  ],
+  "objective": 71.57418469140913,
+  "solve_time": 0.0033706,
+  "iterations": 22
+}

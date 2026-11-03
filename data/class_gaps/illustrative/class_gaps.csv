@@ -1,0 +1,5 @@
+price_class,success,status,raw_gap,direct_gap,duality_difference,gap_upper,uncertainty,classification_1e-06,classification_1e-07,classification_1e-08
+corridor,True,Optimization terminated successfully. (HiGHS Status 7: Optimal),6.543165554037168e-14,6.396703117958323e-14,1.464624360788452e-15,1.2910241812745375e-13,1.164334543395255e-13,zero,zero,zero
+node,True,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.6916686703365675,0.6916686703365629,4.6629367034256575e-15,0.6916686703366973,1.8240964294591322e-13,positive,positive,positive
+contemporaneous,True,Optimization terminated successfully. (HiGHS Status 7: Optimal),6.543165554037168e-14,6.396703117958323e-14,1.464624360788452e-15,1.2023130022887955e-13,1.164334543395255e-13,zero,zero,zero
+all_resource,True,Optimization terminated successfully. (HiGHS Status 7: Optimal),6.543165554037168e-14,6.396703117958323e-14,1.464624360788452e-15,1.2910241812745375e-13,1.164334543395255e-13,zero,zero,zero

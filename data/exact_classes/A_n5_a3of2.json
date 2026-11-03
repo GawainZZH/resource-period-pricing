@@ -1,0 +1,610 @@
+{
+  "id": "n5_a3of2",
+  "so": {
+    "x": [
+      "5831/14240",
+      "4763/14240",
+      "739/2848",
+      "103/712",
+      "103/712"
+    ],
+    "cost": "2231902861/36454400",
+    "certificate": {
+      "verified": true,
+      "feasible": true,
+      "multiplier_interval": [
+        "0",
+        "0"
+      ],
+      "subgradients": [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ]
+    }
+  },
+  "due": {
+    "p": "0",
+    "x": [
+      "57/80",
+      "9/16",
+      "33/80",
+      "13/32",
+      "13/32"
+    ],
+    "cost": "16051/256",
+    "vi_gap": "0"
+  },
+  "caps": [
+    {
+      "cost": "16051/256",
+      "x": [
+        "57/80",
+        "9/16",
+        "33/80",
+        "13/32",
+        "13/32"
+      ],
+      "p": "0",
+      "candidates": [
+        {
+          "kind": "capacity",
+          "p": "0",
+          "x": [
+            "57/80",
+            "9/16",
+            "33/80",
+            "13/32",
+            "13/32"
+          ],
+          "cost": "16051/256",
+          "interval": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "provenance": "new_exact_interval",
+      "audit": {
+        "verified": true,
+        "checks": {
+          "candidate_branch_coverage": true,
+          "candidate_costs": true,
+          "candidate_vi": true,
+          "selected_minimum": true
+        },
+        "expected_candidates": 1,
+        "actual_candidates": 1
+      },
+      "total_loss": "53759539/36454400",
+      "normalized_loss": "53759539/2231902861",
+      "gcr": "0",
+      "gcr_applicable": true,
+      "normalized_cap": "0",
+      "rate_cap": "0",
+      "net_price_interval": [
+        "0",
+        "0"
+      ],
+      "cap_loss": "295530481/200499200",
+      "discrimination_loss": "3303/4505600"
+    },
+    {
+      "cost": "54863/890",
+      "x": [
+        "4343/7120",
+        "655/1424",
+        "2207/7120",
+        "99/356",
+        "99/356"
+      ],
+      "p": "5/8",
+      "candidates": [
+        {
+          "kind": "capacity",
+          "p": "-4/1205",
+          "x": [
+            "57/80",
+            "9/16",
+            "33/80",
+            "13/32",
+            "13/32"
+          ],
+          "cost": "16051/256",
+          "interval": [
+            "-4/1205",
+            "7/128"
+          ]
+        },
+        {
+          "kind": "endpoint",
+          "p": "5/8",
+          "x": [
+            "4343/7120",
+            "655/1424",
+            "2207/7120",
+            "99/356",
+            "99/356"
+          ],
+          "cost": "54863/890",
+          "interval": [
+            "7/128",
+            "5/8"
+          ]
+        }
+      ],
+      "provenance": "new_exact_interval",
+      "audit": {
+        "verified": true,
+        "checks": {
+          "candidate_branch_coverage": true,
+          "candidate_costs": true,
+          "candidate_vi": true,
+          "selected_minimum": true
+        },
+        "expected_candidates": 2,
+        "actual_candidates": 2
+      },
+      "total_loss": "15285619/36454400",
+      "normalized_loss": "15285619/2231902861",
+      "gcr": "38473920/53759539",
+      "gcr_applicable": true,
+      "normalized_cap": "1/4",
+      "rate_cap": "20/241",
+      "net_price_interval": [
+        "-4/1205",
+        "5/8"
+      ],
+      "cap_loss": "83923921/200499200",
+      "discrimination_loss": "3303/4505600"
+    },
+    {
+      "cost": "3487427/56960",
+      "x": [
+        "3543/7120",
+        "495/1424",
+        "1407/7120",
+        "49/356",
+        "49/356"
+      ],
+      "p": "5/4",
+      "candidates": [
+        {
+          "kind": "capacity",
+          "p": "-8/1205",
+          "x": [
+            "57/80",
+            "9/16",
+            "33/80",
+            "13/32",
+            "13/32"
+          ],
+          "cost": "16051/256",
+          "interval": [
+            "-8/1205",
+            "7/128"
+          ]
+        },
+        {
+          "kind": "endpoint",
+          "p": "5/4",
+          "x": [
+            "3543/7120",
+            "495/1424",
+            "1407/7120",
+            "49/356",
+            "49/356"
+          ],
+          "cost": "3487427/56960",
+          "interval": [
+            "7/128",
+            "5/4"
+          ]
+        }
+      ],
+      "provenance": "new_exact_interval",
+      "audit": {
+        "verified": true,
+        "checks": {
+          "candidate_branch_coverage": true,
+          "candidate_costs": true,
+          "candidate_vi": true,
+          "selected_minimum": true
+        },
+        "expected_candidates": 2,
+        "actual_candidates": 2
+      },
+      "total_loss": "50419/36454400",
+      "normalized_loss": "50419/2231902861",
+      "gcr": "53709120/53759539",
+      "gcr_applicable": true,
+      "normalized_cap": "1/2",
+      "rate_cap": "40/241",
+      "net_price_interval": [
+        "-8/1205",
+        "5/4"
+      ],
+      "cap_loss": "130321/200499200",
+      "discrimination_loss": "3303/4505600"
+    },
+    {
+      "cost": "12275612719/200499200",
+      "p": "17961/14080",
+      "x": [
+        "9653/19580",
+        "1679/4895",
+        "3779/19580",
+        "8263/62656",
+        "8263/62656"
+      ],
+      "provenance": "audited_unbounded_witness_in_subset",
+      "audit": {
+        "verified": true,
+        "basis": "global lower bound attained by feasible subset witness"
+      },
+      "total_loss": "3303/4505600",
+      "normalized_loss": "293967/24550931471",
+      "gcr": "591060962/591354929",
+      "gcr_applicable": true,
+      "normalized_cap": "3/4",
+      "rate_cap": "60/241",
+      "net_price_interval": [
+        "-12/1205",
+        "15/8"
+      ],
+      "cap_loss": "0",
+      "discrimination_loss": "3303/4505600"
+    },
+    {
+      "cost": "12275612719/200499200",
+      "p": "17961/14080",
+      "x": [
+        "9653/19580",
+        "1679/4895",
+        "3779/19580",
+        "8263/62656",
+        "8263/62656"
+      ],
+      "provenance": "audited_unbounded_witness_in_subset",
+      "audit": {
+        "verified": true,
+        "basis": "global lower bound attained by feasible subset witness"
+      },
+      "total_loss": "3303/4505600",
+      "normalized_loss": "293967/24550931471",
+      "gcr": "591060962/591354929",
+      "gcr_applicable": true,
+      "normalized_cap": "1",
+      "rate_cap": "80/241",
+      "net_price_interval": [
+        "-16/1205",
+        "5/2"
+      ],
+      "cap_loss": "0",
+      "discrimination_loss": "3303/4505600"
+    },
+    {
+      "cost": "12275612719/200499200",
+      "p": "17961/14080",
+      "x": [
+        "9653/19580",
+        "1679/4895",
+        "3779/19580",
+        "8263/62656",
+        "8263/62656"
+      ],
+      "provenance": "audited_unbounded_witness_in_subset",
+      "audit": {
+        "verified": true,
+        "basis": "global lower bound attained by feasible subset witness"
+      },
+      "total_loss": "3303/4505600",
+      "normalized_loss": "293967/24550931471",
+      "gcr": "591060962/591354929",
+      "gcr_applicable": true,
+      "normalized_cap": "3/2",
+      "rate_cap": "120/241",
+      "net_price_interval": [
+        "-24/1205",
+        "15/4"
+      ],
+      "cap_loss": "0",
+      "discrimination_loss": "3303/4505600"
+    },
+    {
+      "cost": "12275612719/200499200",
+      "p": "17961/14080",
+      "x": [
+        "9653/19580",
+        "1679/4895",
+        "3779/19580",
+        "8263/62656",
+        "8263/62656"
+      ],
+      "provenance": "audited_unbounded_witness_in_subset",
+      "audit": {
+        "verified": true,
+        "basis": "global lower bound attained by feasible subset witness"
+      },
+      "total_loss": "3303/4505600",
+      "normalized_loss": "293967/24550931471",
+      "gcr": "591060962/591354929",
+      "gcr_applicable": true,
+      "normalized_cap": "2",
+      "rate_cap": "160/241",
+      "net_price_interval": [
+        "-32/1205",
+        "5"
+      ],
+      "cap_loss": "0",
+      "discrimination_loss": "3303/4505600"
+    }
+  ],
+  "uncapped": {
+    "cost": "12275612719/200499200",
+    "x": [
+      "9653/19580",
+      "1679/4895",
+      "3779/19580",
+      "8263/62656",
+      "8263/62656"
+    ],
+    "p": "17961/14080",
+    "candidates": [
+      {
+        "kind": "capacity",
+        "p": "-39/40",
+        "x": [
+          "57/80",
+          "9/16",
+          "33/80",
+          "13/32",
+          "13/32"
+        ],
+        "cost": "16051/256",
+        "interval": [
+          "-39/40",
+          "7/128"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "149/80",
+        "x": [
+          "31/80",
+          "19/80",
+          "7/80",
+          "0",
+          "0"
+        ],
+        "cost": "394021/6400",
+        "interval": [
+          "7/128",
+          "149/80"
+        ]
+      },
+      {
+        "kind": "stationary",
+        "p": "17961/14080",
+        "x": [
+          "9653/19580",
+          "1679/4895",
+          "3779/19580",
+          "8263/62656",
+          "8263/62656"
+        ],
+        "cost": "12275612719/200499200",
+        "interval": [
+          "7/128",
+          "149/80"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "149/80",
+        "x": [
+          "31/80",
+          "19/80",
+          "7/80",
+          "0",
+          "0"
+        ],
+        "cost": "394021/6400",
+        "interval": [
+          "149/80",
+          "2727/1280"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "2727/1280",
+        "x": [
+          "3/10",
+          "3/20",
+          "0",
+          "0",
+          "0"
+        ],
+        "cost": "317153/5120",
+        "interval": [
+          "149/80",
+          "2727/1280"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "2727/1280",
+        "x": [
+          "3/10",
+          "3/20",
+          "0",
+          "0",
+          "0"
+        ],
+        "cost": "317153/5120",
+        "interval": [
+          "2727/1280",
+          "3123/1280"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "3123/1280",
+        "x": [
+          "3/20",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "cost": "1601227/25600",
+        "interval": [
+          "2727/1280",
+          "3123/1280"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "3123/1280",
+        "x": [
+          "3/20",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "cost": "1601227/25600",
+        "interval": [
+          "3123/1280",
+          "3327/1280"
+        ]
+      },
+      {
+        "kind": "endpoint",
+        "p": "3327/1280",
+        "x": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "cost": "80537/1280",
+        "interval": [
+          "3123/1280",
+          "3327/1280"
+        ]
+      },
+      {
+        "kind": "constant",
+        "p": "3327/1280",
+        "x": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "cost": "80537/1280",
+        "interval": [
+          "3327/1280",
+          "4607/1280"
+        ]
+      }
+    ],
+    "provenance": "new_exact_interval",
+    "audit": {
+      "verified": true,
+      "checks": {
+        "candidate_branch_coverage": true,
+        "candidate_costs": true,
+        "candidate_vi": true,
+        "selected_minimum": true
+      },
+      "expected_candidates": 10,
+      "actual_candidates": 10
+    },
+    "requested_interval": [
+      "-39/40",
+      "4607/1280"
+    ],
+    "total_loss": "3303/4505600",
+    "normalized_loss": "293967/24550931471",
+    "gcr": "591060962/591354929",
+    "gcr_applicable": true
+  },
+  "discrimination_loss": "3303/4505600",
+  "mathematically_positive": true,
+  "economic_magnitude": "not classified; inspect absolute and normalized losses",
+  "checks": {
+    "so_kkt": true,
+    "due_vi": true,
+    "tails": true,
+    "global_certificates": true,
+    "decomposition": true,
+    "nonnegative_losses": true,
+    "monotonicity": true,
+    "due_above_so": true
+  },
+  "tails": {
+    "lower": {
+      "p": "-39/40",
+      "x": [
+        "57/80",
+        "9/16",
+        "33/80",
+        "13/32",
+        "13/32"
+      ],
+      "cost": "16051/256",
+      "vi_gap": "0"
+    },
+    "upper": {
+      "p": "4607/1280",
+      "x": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "cost": "80537/1280",
+      "vi_gap": "0"
+    },
+    "checks": {
+      "lower_capacity": true,
+      "upper_zero": true,
+      "lower_vi": true,
+      "upper_vi": true,
+      "lower_strict_bound": true,
+      "upper_strict_bound": true
+    }
+  },
+  "solve_counts": {
+    "system_optimum": 1,
+    "global_node_optimum": 4,
+    "equilibrium": 3
+  },
+  "baseline_solve_count": 0,
+  "baseline_id": null,
+  "baseline_reuse_note": "no exact input match; SO and interval recomputation required within parent watchdog",
+  "watchdog_seconds": 300,
+  "watchdog_enforcement": "parent process required"
+}

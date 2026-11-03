@@ -1,0 +1,26 @@
+{
+  "networks": 12,
+  "targets": 24,
+  "class_pairs": 48,
+  "classifications": {
+    "corridor": {
+      "STABLE_ZERO": 12
+    },
+    "node": {
+      "STABLE_POSITIVE": 11,
+      "STABLE_ZERO": 1
+    },
+    "contemporaneous": {
+      "STABLE_ZERO": 11,
+      "STABLE_POSITIVE": 1
+    },
+    "all_resource": {
+      "STABLE_ZERO": 12
+    }
+  },
+  "max_target_change": 2.3814283878209608e-14,
+  "max_so_gap_upper_normalized": 1.5877749168438157e-14,
+  "max_class_interval_width_normalized": 1.5426008868882988e-16,
+  "all_exact_feasible": true,
+  "elapsed_seconds": 41.06259510014206
+}

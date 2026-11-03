@@ -1,0 +1,5 @@
+{
+  "new_capacity_lp_calls": 1,
+  "success": true,
+  "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+}

@@ -1,0 +1,106 @@
+{
+  "accepted": true,
+  "metadata": {
+    "corridor_edges": 57,
+    "resource_count": 130,
+    "used_resource_periods": 1760,
+    "speed_knots": 120,
+    "speed_km_min": 3.704,
+    "coordinate_scale_km": 5,
+    "corridor_length_min_km": 8.845903006477068,
+    "corridor_length_max_km": 29.74054471592611,
+    "headway_minutes": 2,
+    "service_minutes": 6,
+    "terminal_channels": 2,
+    "preferred_departure_minutes": [
+      30,
+      30,
+      30,
+      36,
+      30,
+      66,
+      60,
+      66,
+      66,
+      72
+    ],
+    "grid_minutes": 2.0,
+    "demand_per_od": 4,
+    "reservation_horizon_minutes": 110.0,
+    "route_cruise_min_minutes": 8.457958445642479,
+    "route_cruise_max_minutes": 13.062565553665376
+  },
+  "pricing": [
+    {
+      "case": "grid_2",
+      "class": "corridor",
+      "success": true,
+      "grid_minutes": 2.0,
+      "DUE_cost": 1095.3852852259297,
+      "SO_cost": 1085.2369638059172,
+      "priced_cost": 1094.033850208504,
+      "GCR": 0.1331683301595766,
+      "DUE_gap_upper": 9.485871478624699e-12,
+      "SO_gap_upper": 9.729609202051827e-12,
+      "priced_gap_upper": 5.861278106056575e-12
+    },
+    {
+      "case": "grid_2",
+      "class": "node",
+      "success": true,
+      "grid_minutes": 2.0,
+      "DUE_cost": 1095.3852852259297,
+      "SO_cost": 1085.2369638059172,
+      "priced_cost": 1086.3365738756656,
+      "GCR": 0.8916461132596749,
+      "DUE_gap_upper": 9.485871478624699e-12,
+      "SO_gap_upper": 9.729609202051827e-12,
+      "priced_gap_upper": 3.5464365017565095e-12
+    },
+    {
+      "case": "grid_2",
+      "class": "contemporaneous",
+      "success": true,
+      "grid_minutes": 2.0,
+      "DUE_cost": 1095.3852852259297,
+      "SO_cost": 1085.2369638059172,
+      "priced_cost": 1093.504748882458,
+      "GCR": 0.1853051618727096,
+      "DUE_gap_upper": 9.485871478624699e-12,
+      "SO_gap_upper": 9.729609202051827e-12,
+      "priced_gap_upper": 5.052082738146794e-08
+    }
+  ],
+  "gaps": [
+    {
+      "case": "grid_2",
+      "class": "corridor",
+      "grid_minutes": 2.0,
+      "price_cap": "unbounded",
+      "gap": 3.299322720415988e-13,
+      "gap_upper": 3.979039320256561e-13,
+      "LP_uncertainty": 6.797165998405733e-14,
+      "display_gap": 0.0
+    },
+    {
+      "case": "grid_2",
+      "class": "node",
+      "grid_minutes": 2.0,
+      "price_cap": "unbounded",
+      "gap": 3.303120963516623e-13,
+      "gap_upper": 3.268496584496461e-13,
+      "LP_uncertainty": 3.4624379020162006e-15,
+      "display_gap": 0.0
+    },
+    {
+      "case": "grid_2",
+      "class": "contemporaneous",
+      "grid_minutes": 2.0,
+      "price_cap": "unbounded",
+      "gap": 1.048502037613702,
+      "gap_upper": 1.0485020376138579,
+      "LP_uncertainty": 1.5587531265737198e-13,
+      "display_gap": 1.048502037613702
+    }
+  ]
+}

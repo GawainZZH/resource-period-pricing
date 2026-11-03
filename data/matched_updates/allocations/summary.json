@@ -1,0 +1,132 @@
+{
+  "adaptive": [
+    {
+      "gamma": 0.16,
+      "complete_pairs": 7,
+      "expected_pairs": 24,
+      "plain_gcr": 0.9739064806451425,
+      "capped_gcr": 0.9739064806451425,
+      "delta_gcr": 0.0,
+      "positive_pairs": 0,
+      "negative_pairs": 0
+    },
+    {
+      "gamma": 0.24,
+      "complete_pairs": 7,
+      "expected_pairs": 24,
+      "plain_gcr": 0.9916944532017223,
+      "capped_gcr": 0.9916944532017223,
+      "delta_gcr": 0.0,
+      "positive_pairs": 0,
+      "negative_pairs": 0
+    }
+  ],
+  "pressure": {
+    "common_instance_ids": [
+      2,
+      20
+    ],
+    "baseline_instance_ids": [
+      2,
+      20
+    ],
+    "component_instance_ids": {
+      "corridor": [
+        2,
+        20
+      ],
+      "node": [
+        2,
+        20
+      ],
+      "resource": [
+        2,
+        20
+      ],
+      "contemporaneous": [
+        2,
+        20
+      ]
+    },
+    "by_pressure": [
+      {
+        "p": 0.6,
+        "matched_networks": 2,
+        "expected_networks": 12,
+        "completed_baselines": 3,
+        "component_complete_counts": {
+          "corridor": 2,
+          "node": 2,
+          "resource": 2,
+          "contemporaneous": 2
+        },
+        "realized_peak_pressure": 0.7900207900207901,
+        "poa": 1.0454679694678801,
+        "corridor_gcr": 0.5924164055086385,
+        "node_gcr": 0.4271482090857447,
+        "resource_gcr": 1.000000000203257,
+        "contemporaneous_gcr": 0.34326221171602367
+      },
+      {
+        "p": 0.75,
+        "matched_networks": 2,
+        "expected_networks": 12,
+        "completed_baselines": 5,
+        "component_complete_counts": {
+          "corridor": 2,
+          "node": 2,
+          "resource": 2,
+          "contemporaneous": 2
+        },
+        "realized_peak_pressure": 0.9875259875259876,
+        "poa": 1.033980795754093,
+        "corridor_gcr": 0.41739726650477643,
+        "node_gcr": 0.26692812852500597,
+        "resource_gcr": 0.9612180820172167,
+        "contemporaneous_gcr": 0.11398312481885624
+      },
+      {
+        "p": 0.85,
+        "matched_networks": 2,
+        "expected_networks": 12,
+        "completed_baselines": 6,
+        "component_complete_counts": {
+          "corridor": 2,
+          "node": 2,
+          "resource": 2,
+          "contemporaneous": 2
+        },
+        "realized_peak_pressure": 1.1191961191961193,
+        "poa": 1.028930485874731,
+        "corridor_gcr": 0.2858131095183026,
+        "node_gcr": 0.19477263725681848,
+        "resource_gcr": 0.8602129926698419,
+        "contemporaneous_gcr": -0.07580523143173745
+      },
+      {
+        "p": 0.95,
+        "matched_networks": 2,
+        "expected_networks": 12,
+        "completed_baselines": 6,
+        "component_complete_counts": {
+          "corridor": 2,
+          "node": 2,
+          "resource": 2,
+          "contemporaneous": 2
+        },
+        "realized_peak_pressure": 1.2508662508662511,
+        "poa": 1.0165816222699497,
+        "corridor_gcr": -0.1996882568577175,
+        "node_gcr": -0.24665358801289677,
+        "resource_gcr": 0.6990418989469822,
+        "contemporaneous_gcr": -0.6371728296062734
+      }
+    ]
+  },
+  "expected_instances": 24,
+  "states": 431,
+  "failed_states": 38,
+  "max_gap_upper": 0.0002712389817901502,
+  "max_feasibility": 4.434674849562725e-11,
+  "one_shot_gcr": -1.6548113970738647
+}

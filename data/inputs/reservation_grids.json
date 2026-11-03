@@ -1,0 +1,23 @@
+{
+  "resource_minutes": [
+    1,
+    1.2,
+    1.5,
+    2,
+    3,
+    6
+  ],
+  "capacity_multipliers": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    10
+  ],
+  "departure_minutes": 6,
+  "nominal_headway_minutes": 2,
+  "nominal_service_minutes": 6,
+  "nominal_terminal_channels": 2,
+  "requests": 40
+}

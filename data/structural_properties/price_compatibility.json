@@ -1,0 +1,133 @@
+{
+  "boundary_examples": [
+    {
+      "node_period": 0,
+      "so_cost": 2.5,
+      "so_first_order_gap": 0.0,
+      "node_load": 1.0,
+      "node_externality": 1.0,
+      "restricted_minimum_gap": 0.5,
+      "complete_minimum_gap": 0.0
+    },
+    {
+      "node_period": 2,
+      "so_cost": 2.5,
+      "so_first_order_gap": 0.0,
+      "node_load": 1.0,
+      "node_externality": 1.0,
+      "restricted_minimum_gap": 0.5,
+      "complete_minimum_gap": 0.0
+    }
+  ],
+  "masked_temporal_example": {
+    "system_cost_1": 1.0,
+    "system_cost_2": 1.0,
+    "minimum_gap_1": 0.0,
+    "minimum_gap_2": 1.0,
+    "price_domain": "[1,2]"
+  },
+  "nonmonotone_resource_embedding": [
+    {
+      "instance": "S1",
+      "minimum_resource_cost": 1.99995949,
+      "maximum_cost_difference_error": 4.111294638065033e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S2",
+      "minimum_resource_cost": 2.099741330512397,
+      "maximum_cost_difference_error": 4.2500725161431774e-16,
+      "maximum_aggregate_objective_error": 6.106226635438361e-16
+    },
+    {
+      "instance": "S3",
+      "minimum_resource_cost": 1.899960853485207,
+      "maximum_cost_difference_error": 3.3306690738754696e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S4",
+      "minimum_resource_cost": 2.1998851184852075,
+      "maximum_cost_difference_error": 3.8337388819087437e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S5",
+      "minimum_resource_cost": 1.799887321160523,
+      "maximum_cost_difference_error": 4.163336342344337e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S6",
+      "minimum_resource_cost": 2.2996994805123965,
+      "maximum_cost_difference_error": 3.8163916471489756e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S7",
+      "minimum_resource_cost": 1.99986688,
+      "maximum_cost_difference_error": 4.3021142204224816e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S8",
+      "minimum_resource_cost": 2.399818571011388,
+      "maximum_cost_difference_error": 4.163336342344337e-16,
+      "maximum_aggregate_objective_error": 5.551115123125783e-16
+    },
+    {
+      "instance": "S9",
+      "minimum_resource_cost": 2.0,
+      "maximum_cost_difference_error": 4.163336342344337e-16,
+      "maximum_aggregate_objective_error": 6.661338147750939e-16
+    },
+    {
+      "instance": "S10",
+      "minimum_resource_cost": 2.199744478576006,
+      "maximum_cost_difference_error": 3.937822290467352e-16,
+      "maximum_aggregate_objective_error": 6.38378239159465e-16
+    },
+    {
+      "instance": "S11",
+      "minimum_resource_cost": 1.899760947011388,
+      "maximum_cost_difference_error": 3.7903707950093235e-16,
+      "maximum_aggregate_objective_error": 6.106226635438361e-16
+    },
+    {
+      "instance": "S12",
+      "minimum_resource_cost": 2.099825224961032,
+      "maximum_cost_difference_error": 4.0939474033052647e-16,
+      "maximum_aggregate_objective_error": 6.591949208711867e-16
+    }
+  ],
+  "matrix_checks": {
+    "contemporaneous": {
+      "instances": 200,
+      "compatible": 200,
+      "exact_compatible": 200,
+      "exact_rank_verified": 200,
+      "nontrivial_nullspace": 80,
+      "largest_nullity": 137,
+      "largest_relative_defect": 8.441121326591669e-16
+    },
+    "corridor": {
+      "instances": 200,
+      "compatible": 200,
+      "exact_compatible": 200,
+      "exact_rank_verified": 200,
+      "nontrivial_nullspace": 80,
+      "largest_nullity": 137,
+      "largest_relative_defect": 5.385336436874109e-16
+    },
+    "node": {
+      "instances": 200,
+      "compatible": 200,
+      "exact_compatible": 200,
+      "exact_rank_verified": 200,
+      "nontrivial_nullspace": 80,
+      "largest_nullity": 137,
+      "largest_relative_defect": 5.699951504330962e-16
+    }
+  },
+  "interpretation": "Matrix compatibility is a sufficient condition, not a classification of SO decentralization."
+}

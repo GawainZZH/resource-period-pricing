@@ -1,0 +1,767 @@
+[
+  {
+    "cap": "0",
+    "class_name": "corridor",
+    "state": "B",
+    "task_id": "B_zero",
+    "cost_lower": "698/65",
+    "cost_upper": "698/65",
+    "loss_lower": "179053/5614960",
+    "loss_upper": "179053/5614960",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "9/26",
+      "17/26"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "corridor",
+    "state": "B",
+    "task_id": "B_corridor_1of4",
+    "cost_lower": "4624383/431920",
+    "cost_upper": "4624383/431920",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "2765/10798",
+      "3122/5399"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "1",
+    "class_name": "corridor",
+    "state": "B",
+    "task_id": "B_corridor_1",
+    "cost_lower": "4624383/431920",
+    "cost_upper": "4624383/431920",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "2765/10798",
+      "3122/5399"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "0",
+    "class_name": "node",
+    "state": "B",
+    "task_id": "B_zero",
+    "cost_lower": "698/65",
+    "cost_upper": "698/65",
+    "loss_lower": "179053/5614960",
+    "loss_upper": "179053/5614960",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "9/26",
+      "17/26"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "node",
+    "state": "B",
+    "task_id": "B_node_1of4",
+    "cost_lower": "698/65",
+    "cost_upper": "698/65",
+    "loss_lower": "179053/5614960",
+    "loss_upper": "179053/5614960",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "9/26",
+      "17/26"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "node",
+    "state": "B",
+    "task_id": "B_node_1",
+    "cost_lower": "7708799/720000",
+    "cost_upper": "7708799/720000",
+    "loss_lower": "358801/3887280000",
+    "loss_upper": "358801/3887280000",
+    "remaining_gap_ratio": "4664413/1611477000",
+    "GCR": "1606812587/1611477000",
+    "x": [
+      "481/1800",
+      "1021/1800"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "contemporaneous",
+    "state": "B",
+    "task_id": "B_zero",
+    "cost_lower": "698/65",
+    "cost_upper": "698/65",
+    "loss_lower": "179053/5614960",
+    "loss_upper": "179053/5614960",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "9/26",
+      "17/26"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "contemporaneous",
+    "state": "B",
+    "task_id": "B_contemporaneous_1of4",
+    "cost_lower": "44671/4160",
+    "cost_upper": "44671/4160",
+    "loss_lower": "710813/22459840",
+    "loss_upper": "710813/22459840",
+    "remaining_gap_ratio": "710813/716212",
+    "GCR": "5399/716212",
+    "x": [
+      "19/52",
+      "33/52"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "contemporaneous",
+    "state": "B",
+    "task_id": "B_contemporaneous_1",
+    "cost_lower": "44671/4160",
+    "cost_upper": "44671/4160",
+    "loss_lower": "710813/22459840",
+    "loss_upper": "710813/22459840",
+    "remaining_gap_ratio": "710813/716212",
+    "GCR": "5399/716212",
+    "x": [
+      "19/52",
+      "33/52"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "corridor",
+    "state": "K-",
+    "task_id": "K-_zero",
+    "cost_lower": "21423/2000",
+    "cost_upper": "21423/2000",
+    "loss_lower": "26601/5399000",
+    "loss_upper": "26601/5399000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "3/10",
+      "3/5"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "corridor",
+    "state": "K-",
+    "task_id": "K-_corridor_1of4",
+    "cost_lower": "4624383/431920",
+    "cost_upper": "4624383/431920",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "2765/10798",
+      "3122/5399"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "1",
+    "class_name": "corridor",
+    "state": "K-",
+    "task_id": "K-_corridor_1",
+    "cost_lower": "4624383/431920",
+    "cost_upper": "4624383/431920",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "2765/10798",
+      "3122/5399"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "0",
+    "class_name": "node",
+    "state": "K-",
+    "task_id": "K-_zero",
+    "cost_lower": "21423/2000",
+    "cost_upper": "21423/2000",
+    "loss_lower": "26601/5399000",
+    "loss_upper": "26601/5399000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "3/10",
+      "3/5"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "node",
+    "state": "K-",
+    "task_id": "K-_node_1of4",
+    "cost_lower": "21423/2000",
+    "cost_upper": "21423/2000",
+    "loss_lower": "26601/5399000",
+    "loss_upper": "26601/5399000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "3/10",
+      "3/5"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "node",
+    "state": "K-",
+    "task_id": "K-_node_1",
+    "cost_lower": "7708799/720000",
+    "cost_upper": "7708799/720000",
+    "loss_lower": "358801/3887280000",
+    "loss_upper": "358801/3887280000",
+    "remaining_gap_ratio": "358801/19152720",
+    "GCR": "18793919/19152720",
+    "x": [
+      "481/1800",
+      "1021/1800"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "contemporaneous",
+    "state": "K-",
+    "task_id": "K-_zero",
+    "cost_lower": "21423/2000",
+    "cost_upper": "21423/2000",
+    "loss_lower": "26601/5399000",
+    "loss_upper": "26601/5399000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "3/10",
+      "3/5"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "contemporaneous",
+    "state": "K-",
+    "task_id": "K-_contemporaneous_1of4",
+    "cost_lower": "21423/2000",
+    "cost_upper": "21423/2000",
+    "loss_lower": "26601/5399000",
+    "loss_upper": "26601/5399000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "3/10",
+      "3/5"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "contemporaneous",
+    "state": "K-",
+    "task_id": "K-_contemporaneous_1",
+    "cost_lower": "21423/2000",
+    "cost_upper": "21423/2000",
+    "loss_lower": "26601/5399000",
+    "loss_upper": "26601/5399000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "3/10",
+      "3/5"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "corridor",
+    "state": "K+",
+    "task_id": "K+_zero",
+    "cost_lower": "280479/26000",
+    "cost_upper": "280479/26000",
+    "loss_lower": "5690823/70187000",
+    "loss_upper": "5690823/70187000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "51/130",
+      "46/65"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "corridor",
+    "state": "K+",
+    "task_id": "K+_corridor_1of4",
+    "cost_lower": "4624383/431920",
+    "cost_upper": "4624383/431920",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "2765/10798",
+      "3122/5399"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "1",
+    "class_name": "corridor",
+    "state": "K+",
+    "task_id": "K+_corridor_1",
+    "cost_lower": "4624383/431920",
+    "cost_upper": "4624383/431920",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "2765/10798",
+      "3122/5399"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "0",
+    "class_name": "node",
+    "state": "K+",
+    "task_id": "K+_zero",
+    "cost_lower": "280479/26000",
+    "cost_upper": "280479/26000",
+    "loss_lower": "5690823/70187000",
+    "loss_upper": "5690823/70187000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "51/130",
+      "46/65"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "node",
+    "state": "K+",
+    "task_id": "K+_node_1of4",
+    "cost_lower": "6233/578",
+    "cost_upper": "6233/578",
+    "loss_lower": "9631993/124824880",
+    "loss_upper": "9631993/124824880",
+    "remaining_gap_ratio": "164757775/173120826",
+    "GCR": "8363051/173120826",
+    "x": [
+      "225/578",
+      "407/578"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "node",
+    "state": "K+",
+    "task_id": "K+_node_1",
+    "cost_lower": "7708799/720000",
+    "cost_upper": "7708799/720000",
+    "loss_lower": "358801/3887280000",
+    "loss_upper": "358801/3887280000",
+    "remaining_gap_ratio": "4664413/4097392560",
+    "GCR": "4092728147/4097392560",
+    "x": [
+      "481/1800",
+      "1021/1800"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "contemporaneous",
+    "state": "K+",
+    "task_id": "K+_zero",
+    "cost_lower": "280479/26000",
+    "cost_upper": "280479/26000",
+    "loss_lower": "5690823/70187000",
+    "loss_upper": "5690823/70187000",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "51/130",
+      "46/65"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "contemporaneous",
+    "state": "K+",
+    "task_id": "K+_contemporaneous_1of4",
+    "cost_lower": "1121891/104000",
+    "cost_upper": "1121891/104000",
+    "loss_lower": "45391609/561496000",
+    "loss_upper": "45391609/561496000",
+    "remaining_gap_ratio": "45391609/45526584",
+    "GCR": "134975/45526584",
+    "x": [
+      "107/260",
+      "179/260"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "contemporaneous",
+    "state": "K+",
+    "task_id": "K+_contemporaneous_1",
+    "cost_lower": "6233/578",
+    "cost_upper": "6233/578",
+    "loss_lower": "9631993/124824880",
+    "loss_upper": "9631993/124824880",
+    "remaining_gap_ratio": "164757775/173120826",
+    "GCR": "8363051/173120826",
+    "x": [
+      "225/578",
+      "407/578"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "corridor",
+    "state": "C-",
+    "task_id": "C-_zero",
+    "cost_lower": "1381/130",
+    "cost_upper": "1381/130",
+    "loss_lower": "235709/27050400",
+    "loss_upper": "235709/27050400",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "40/117",
+      "77/117"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "corridor",
+    "state": "C-",
+    "task_id": "C-_corridor_1of4",
+    "cost_lower": "22086367/2080800",
+    "cost_upper": "22086367/2080800",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "1669/5202",
+      "3055/5202"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "1",
+    "class_name": "corridor",
+    "state": "C-",
+    "task_id": "C-_corridor_1",
+    "cost_lower": "22086367/2080800",
+    "cost_upper": "22086367/2080800",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "1669/5202",
+      "3055/5202"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "0",
+    "class_name": "node",
+    "state": "C-",
+    "task_id": "C-_zero",
+    "cost_lower": "1381/130",
+    "cost_upper": "1381/130",
+    "loss_lower": "235709/27050400",
+    "loss_upper": "235709/27050400",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "40/117",
+      "77/117"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "node",
+    "state": "C-",
+    "task_id": "C-_node_1of4",
+    "cost_lower": "1381/130",
+    "cost_upper": "1381/130",
+    "loss_lower": "235709/27050400",
+    "loss_upper": "235709/27050400",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "40/117",
+      "77/117"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "node",
+    "state": "C-",
+    "task_id": "C-_node_1",
+    "cost_lower": "71782499/6762600",
+    "cost_upper": "71782499/6762600",
+    "loss_lower": "1/3744",
+    "loss_upper": "1/3744",
+    "remaining_gap_ratio": "7225/235709",
+    "GCR": "228484/235709",
+    "x": [
+      "10126/33813",
+      "6860/11271"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "contemporaneous",
+    "state": "C-",
+    "task_id": "C-_zero",
+    "cost_lower": "1381/130",
+    "cost_upper": "1381/130",
+    "loss_lower": "235709/27050400",
+    "loss_upper": "235709/27050400",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "40/117",
+      "77/117"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "contemporaneous",
+    "state": "C-",
+    "task_id": "C-_contemporaneous_1of4",
+    "cost_lower": "198859/18720",
+    "cost_upper": "198859/18720",
+    "loss_lower": "57121/6762600",
+    "loss_upper": "57121/6762600",
+    "remaining_gap_ratio": "228484/235709",
+    "GCR": "7225/235709",
+    "x": [
+      "85/234",
+      "149/234"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "contemporaneous",
+    "state": "C-",
+    "task_id": "C-_contemporaneous_1",
+    "cost_lower": "198859/18720",
+    "cost_upper": "198859/18720",
+    "loss_lower": "57121/6762600",
+    "loss_upper": "57121/6762600",
+    "remaining_gap_ratio": "228484/235709",
+    "GCR": "7225/235709",
+    "x": [
+      "85/234",
+      "149/234"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "corridor",
+    "state": "C+",
+    "task_id": "C+_zero",
+    "cost_lower": "521/48",
+    "cost_upper": "521/48",
+    "loss_lower": "185231/2850672",
+    "loss_upper": "185231/2850672",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "23/66",
+      "43/66"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "corridor",
+    "state": "C+",
+    "task_id": "C+_corridor_1of4",
+    "cost_lower": "5126073/475112",
+    "cost_upper": "5126073/475112",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "13217/59389",
+      "32567/59389"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "1",
+    "class_name": "corridor",
+    "state": "C+",
+    "task_id": "C+_corridor_1",
+    "cost_lower": "5126073/475112",
+    "cost_upper": "5126073/475112",
+    "loss_lower": "0",
+    "loss_upper": "0",
+    "remaining_gap_ratio": "0",
+    "GCR": "1",
+    "x": [
+      "13217/59389",
+      "32567/59389"
+    ],
+    "zero_loss": true
+  },
+  {
+    "cap": "0",
+    "class_name": "node",
+    "state": "C+",
+    "task_id": "C+_zero",
+    "cost_lower": "521/48",
+    "cost_upper": "521/48",
+    "loss_lower": "185231/2850672",
+    "loss_upper": "185231/2850672",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "23/66",
+      "43/66"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "node",
+    "state": "C+",
+    "task_id": "C+_node_1of4",
+    "cost_lower": "521/48",
+    "cost_upper": "521/48",
+    "loss_lower": "185231/2850672",
+    "loss_upper": "185231/2850672",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "23/66",
+      "43/66"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "node",
+    "state": "C+",
+    "task_id": "C+_node_1",
+    "cost_lower": "769061/71280",
+    "cost_upper": "769061/71280",
+    "loss_lower": "41209/384840720",
+    "loss_upper": "41209/384840720",
+    "remaining_gap_ratio": "41209/25006185",
+    "GCR": "24964976/25006185",
+    "x": [
+      "139/594",
+      "29/54"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "0",
+    "class_name": "contemporaneous",
+    "state": "C+",
+    "task_id": "C+_zero",
+    "cost_lower": "521/48",
+    "cost_upper": "521/48",
+    "loss_lower": "185231/2850672",
+    "loss_upper": "185231/2850672",
+    "remaining_gap_ratio": "1",
+    "GCR": "0",
+    "x": [
+      "23/66",
+      "43/66"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1/4",
+    "class_name": "contemporaneous",
+    "state": "C+",
+    "task_id": "C+_contemporaneous_1of4",
+    "cost_lower": "76413/7040",
+    "cost_upper": "76413/7040",
+    "loss_lower": "2467947/38008960",
+    "loss_upper": "2467947/38008960",
+    "remaining_gap_ratio": "7403841/7409240",
+    "GCR": "5399/7409240",
+    "x": [
+      "15/44",
+      "29/44"
+    ],
+    "zero_loss": false
+  },
+  {
+    "cap": "1",
+    "class_name": "contemporaneous",
+    "state": "C+",
+    "task_id": "C+_contemporaneous_1",
+    "cost_lower": "76413/7040",
+    "cost_upper": "76413/7040",
+    "loss_lower": "2467947/38008960",
+    "loss_upper": "2467947/38008960",
+    "remaining_gap_ratio": "7403841/7409240",
+    "GCR": "5399/7409240",
+    "x": [
+      "15/44",
+      "29/44"
+    ],
+    "zero_loss": false
+  }
+]

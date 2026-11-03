@@ -1,0 +1,3 @@
+price_class,minimum_primal_gap,due_initialized_gcr,so_initialized_gcr,initialization_gcr_difference,due_initialized_vi_residual,so_initialized_vi_residual,equilibrium_flow_distance,due_initialized_success,so_initialized_success,seed,capacity_configuration,pressure,reliability,alternatives,resources
+corridor,1.3357634998101275e-09,0.9999790075862481,1.0,2.099241375186356e-05,0.0006432551026023248,1.3357066563912667e-09,3.4450423860498265e-05,True,True,20260625,metropolitan-merge,0.9,tight,180,73
+contemporaneous,1.3300791579240467e-09,0.9999188919278427,1.0,8.110807215733207e-05,0.0005652652692447191,1.330022314505186e-09,5.928487563674727e-05,True,True,20260625,metropolitan-merge,0.9,tight,180,73

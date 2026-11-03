@@ -1,0 +1,558 @@
+{
+  "additional_states_allowed": false,
+  "automatic_retry": false,
+  "cells": [
+    {
+      "cap": "0",
+      "class_name": "corridor",
+      "state": "B",
+      "task_id": "B_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "state": "B",
+      "task_id": "B_corridor_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "state": "B",
+      "task_id": "B_corridor_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "node",
+      "state": "B",
+      "task_id": "B_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "state": "B",
+      "task_id": "B_node_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "state": "B",
+      "task_id": "B_node_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "contemporaneous",
+      "state": "B",
+      "task_id": "B_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "state": "B",
+      "task_id": "B_contemporaneous_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "state": "B",
+      "task_id": "B_contemporaneous_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "corridor",
+      "state": "K-",
+      "task_id": "K-_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "state": "K-",
+      "task_id": "K-_corridor_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "state": "K-",
+      "task_id": "K-_corridor_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "node",
+      "state": "K-",
+      "task_id": "K-_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "state": "K-",
+      "task_id": "K-_node_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "state": "K-",
+      "task_id": "K-_node_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "contemporaneous",
+      "state": "K-",
+      "task_id": "K-_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "state": "K-",
+      "task_id": "K-_contemporaneous_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "state": "K-",
+      "task_id": "K-_contemporaneous_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "corridor",
+      "state": "K+",
+      "task_id": "K+_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "state": "K+",
+      "task_id": "K+_corridor_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "state": "K+",
+      "task_id": "K+_corridor_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "node",
+      "state": "K+",
+      "task_id": "K+_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "state": "K+",
+      "task_id": "K+_node_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "state": "K+",
+      "task_id": "K+_node_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "contemporaneous",
+      "state": "K+",
+      "task_id": "K+_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "state": "K+",
+      "task_id": "K+_contemporaneous_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "state": "K+",
+      "task_id": "K+_contemporaneous_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "corridor",
+      "state": "C-",
+      "task_id": "C-_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "state": "C-",
+      "task_id": "C-_corridor_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "state": "C-",
+      "task_id": "C-_corridor_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "node",
+      "state": "C-",
+      "task_id": "C-_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "state": "C-",
+      "task_id": "C-_node_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "state": "C-",
+      "task_id": "C-_node_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "contemporaneous",
+      "state": "C-",
+      "task_id": "C-_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "state": "C-",
+      "task_id": "C-_contemporaneous_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "state": "C-",
+      "task_id": "C-_contemporaneous_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "corridor",
+      "state": "C+",
+      "task_id": "C+_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "state": "C+",
+      "task_id": "C+_corridor_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "state": "C+",
+      "task_id": "C+_corridor_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "node",
+      "state": "C+",
+      "task_id": "C+_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "state": "C+",
+      "task_id": "C+_node_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "state": "C+",
+      "task_id": "C+_node_1"
+    },
+    {
+      "cap": "0",
+      "class_name": "contemporaneous",
+      "state": "C+",
+      "task_id": "C+_zero"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "state": "C+",
+      "task_id": "C+_contemporaneous_1of4"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "state": "C+",
+      "task_id": "C+_contemporaneous_1"
+    }
+  ],
+  "feasibility_tolerance": "1/1000000000",
+  "max_seconds_per_task": 300,
+  "max_solve_seconds": 12000,
+  "max_verification_seconds": 1800,
+  "max_wall_seconds": 14400,
+  "normalized_cost_interval_width": "1/1000000",
+  "normalized_primal_gap_tolerance": "1/100000000",
+  "price_tolerance": "1/10000000000",
+  "scientific_execution_started": false,
+  "scientific_optimizer_calls": 0,
+  "tasks": [
+    {
+      "id": "B_SO",
+      "state": "B",
+      "type": "SO"
+    },
+    {
+      "cap": "0",
+      "class_name": "shared_zero",
+      "id": "B_zero",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "id": "B_corridor_1of4",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "id": "B_corridor_1",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "id": "B_node_1of4",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "id": "B_node_1",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "id": "B_contemporaneous_1of4",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "id": "B_contemporaneous_1",
+      "state": "B",
+      "type": "price_class"
+    },
+    {
+      "id": "K-_SO",
+      "state": "K-",
+      "type": "SO"
+    },
+    {
+      "cap": "0",
+      "class_name": "shared_zero",
+      "id": "K-_zero",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "id": "K-_corridor_1of4",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "id": "K-_corridor_1",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "id": "K-_node_1of4",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "id": "K-_node_1",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "id": "K-_contemporaneous_1of4",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "id": "K-_contemporaneous_1",
+      "state": "K-",
+      "type": "price_class"
+    },
+    {
+      "id": "K+_SO",
+      "state": "K+",
+      "type": "SO"
+    },
+    {
+      "cap": "0",
+      "class_name": "shared_zero",
+      "id": "K+_zero",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "id": "K+_corridor_1of4",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "id": "K+_corridor_1",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "id": "K+_node_1of4",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "id": "K+_node_1",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "id": "K+_contemporaneous_1of4",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "id": "K+_contemporaneous_1",
+      "state": "K+",
+      "type": "price_class"
+    },
+    {
+      "id": "C-_SO",
+      "state": "C-",
+      "type": "SO"
+    },
+    {
+      "cap": "0",
+      "class_name": "shared_zero",
+      "id": "C-_zero",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "id": "C-_corridor_1of4",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "id": "C-_corridor_1",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "id": "C-_node_1of4",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "id": "C-_node_1",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "id": "C-_contemporaneous_1of4",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "id": "C-_contemporaneous_1",
+      "state": "C-",
+      "type": "price_class"
+    },
+    {
+      "id": "C+_SO",
+      "state": "C+",
+      "type": "SO"
+    },
+    {
+      "cap": "0",
+      "class_name": "shared_zero",
+      "id": "C+_zero",
+      "state": "C+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "corridor",
+      "id": "C+_corridor_1of4",
+      "state": "C+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "corridor",
+      "id": "C+_corridor_1",
+      "state": "C+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "node",
+      "id": "C+_node_1of4",
+      "state": "C+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "node",
+      "id": "C+_node_1",
+      "state": "C+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1/4",
+      "class_name": "contemporaneous",
+      "id": "C+_contemporaneous_1of4",
+      "state": "C+",
+      "type": "price_class"
+    },
+    {
+      "cap": "1",
+      "class_name": "contemporaneous",
+      "id": "C+_contemporaneous_1",
+      "state": "C+",
+      "type": "price_class"
+    }
+  ]
+}

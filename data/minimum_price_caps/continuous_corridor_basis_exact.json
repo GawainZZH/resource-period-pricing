@@ -1,0 +1,11 @@
+{
+  "exact_primal_feasible": false,
+  "basis_details": {
+    "basic_columns": 363,
+    "basis_cap_equalities": 231,
+    "basis_core_equalities": 148,
+    "reduced_variables": 132
+  },
+  "reason": "Saved basis has no exact solution on selected equations",
+  "check_seconds": 0.0773742999881506
+}

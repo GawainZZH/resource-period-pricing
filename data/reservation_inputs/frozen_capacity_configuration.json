@@ -1,0 +1,37 @@
+{
+  "changed_parameter": "Terminal concurrent service channels: 2 to 3",
+  "terminal_resource_ids_zero_based": [
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125
+  ],
+  "grid_minutes": 3,
+  "departure_period_minutes": 6,
+  "choices": 180,
+  "requests": 40,
+  "preserved": [
+    "occupation",
+    "conservation",
+    "demand",
+    "choices",
+    "row_alpha",
+    "row_start",
+    "departure_penalty",
+    "protected_stage_intervals"
+  ],
+  "original_protected_npz_sha256": "904c67d1431b78e13200d698bd03a497e840e6f4b620a5ba946a30cbb85879e2",
+  "candidate_npz_sha256": "e59e2a425b66a11708d4be426a7a6fcb6b11f8c03ce4ef0900c286d9c984301e",
+  "design_sha256": "0896a740a2e5fceb027ed4e1e8f5c67ca74ad11e756d51181300c80f2d73c68f",
+  "time_limit_seconds": 60,
+  "maximum_new_capacity_lp_calls": 1,
+  "DUE_SO_price_solves_authorized": 0
+}

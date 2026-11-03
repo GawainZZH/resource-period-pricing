@@ -1,0 +1,7 @@
+{
+  "started": true,
+  "authorized_calls": 1,
+  "LP_limit": 1,
+  "MILP_limit": 1,
+  "batch_compute_seconds": 180
+}

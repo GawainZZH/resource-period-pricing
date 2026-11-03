@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "tasks": [
+    "B_SO",
+    "B_zero",
+    "B_corridor_1of4"
+  ],
+  "exact_flow_agreement": true,
+  "exact_unpriced_cost_agreement": true,
+  "exact_corridor_implementation": true,
+  "full_independent_verification": true
+}

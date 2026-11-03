@@ -1,0 +1,7 @@
+{
+  "objective_discrepancy": 0.0,
+  "feasibility_violation": 3.836930773104541e-13,
+  "SO_cost": 1094.954915241418,
+  "SO_gap_upper": 2.353415679819709e-12,
+  "source_dependencies_match": true
+}

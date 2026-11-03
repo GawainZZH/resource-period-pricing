@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Optimization terminated successfully",
+  "iterations": 52,
+  "source": "raw SLSQP return",
+  "seconds": 0.703154900111258,
+  "evaluations": 73,
+  "feasibility": {
+    "nonnegativity_violation": 0.0,
+    "capacity_violation": 7.460698725481052e-14,
+    "demand_violation": 1.7763568394002505e-15
+  }
+}

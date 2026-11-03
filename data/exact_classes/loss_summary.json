@@ -1,0 +1,129 @@
+{
+  "family": [
+    {
+      "case": "n20_a0of1",
+      "loss": "0",
+      "so_cost": "17480951/46080",
+      "due_so_gap": "1089289/46080",
+      "percent_so": 0.0,
+      "percent_due_so_gap": 0.0,
+      "source_sha256": "dcd3c63340ed4b86d7bbda5c652495a020e7ed9b3ac70e2a145b81a39cfc959c"
+    },
+    {
+      "case": "n20_a1of1",
+      "loss": "28649789/6785644800",
+      "so_cost": "5260318481/13862400",
+      "due_so_gap": "109219173/4620800",
+      "percent_so": 0.001112645184838308,
+      "percent_due_so_gap": 0.017862761234545676,
+      "source_sha256": "1eb2bab8e2d8c18837f8bc3490cd9cb0e26d280c3538ea7cbf0676a8c4177dcd"
+    },
+    {
+      "case": "n20_a1of2",
+      "loss": "2018507069/599262310400",
+      "so_cost": "182319656149/480563200",
+      "due_so_gap": "79582221357/3363942400",
+      "percent_so": 0.0008878310471949132,
+      "percent_due_so_gap": 0.0142378955925087,
+      "source_sha256": "0e9a2a9bce2fac77020d40197c38ba6e4b74fedd597eebff7e83e59ff78d6c4b"
+    },
+    {
+      "case": "n20_a1of4",
+      "loss": "3932456501/2823604531200",
+      "so_cost": "64508520753/170045440",
+      "due_so_gap": "4022612687/170045440",
+      "percent_so": 0.00036711993199410955,
+      "percent_due_so_gap": 0.0058873089692221625,
+      "source_sha256": "98d55b8fc7f77910b043c70f002bfdf623515fff13ddf1f9e0e6ee5836ce0e92"
+    },
+    {
+      "case": "n20_a1of8",
+      "loss": "7/24320",
+      "so_cost": "332137817/875520",
+      "due_so_gap": "393301477/16634880",
+      "percent_so": 7.58721190727884e-05,
+      "percent_due_so_gap": 0.001217386732570038,
+      "source_sha256": "d11516f831f5db6f9183750707eceb99730cdbdf5fc2d478c9025d5d319623cd"
+    },
+    {
+      "case": "n20_a3of2",
+      "loss": "5245740981/615231795200",
+      "so_cost": "47703716573/125685760",
+      "due_so_gap": "26711542843/1131171840",
+      "percent_so": 0.0022464767616426073,
+      "percent_due_so_gap": 0.0361075218378792,
+      "source_sha256": "32a45bffa8d25b976b88f9d55e0c56e82b36d3fe95db84d7278f9d3c0c0ad7e4"
+    },
+    {
+      "case": "n5_a0of1",
+      "loss": "0",
+      "so_cost": "45128951/737280",
+      "due_so_gap": "1089289/737280",
+      "percent_so": 0.0,
+      "percent_due_so_gap": 0.0,
+      "source_sha256": "1a2a89bc4e96a2344d1980841e2d6b91b2b58b1c90f022ced40a76899f500d80"
+    },
+    {
+      "case": "n5_a1of1",
+      "loss": "1423/4505600",
+      "so_cost": "446337537/7290880",
+      "due_so_gap": "247571689/167690240",
+      "percent_so": 0.0005159038925450555,
+      "percent_due_so_gap": 0.021392378482853396,
+      "source_sha256": "f7a5e3b120a9b1f2f9252053994372adb7c32218f2d8c68677a97fbe9466aafc"
+    },
+    {
+      "case": "n5_a1of2",
+      "loss": "4315787/27668889600",
+      "so_cost": "1730010697/28262400",
+      "due_so_gap": "41784503/28262400",
+      "percent_so": 0.0002548170726665268,
+      "percent_due_so_gap": 0.010550233455961356,
+      "source_sha256": "04df5c45db25fbfb2ab056196c02fb1dcc76dbb7a59acc50ac037cd9e738f603"
+    },
+    {
+      "case": "n5_a1of4",
+      "loss": "388901/2376192000",
+      "so_cost": "407414591/6656000",
+      "due_so_gap": "226376407/153088000",
+      "percent_so": 0.00026738329148780215,
+      "percent_due_so_gap": 0.011067958375450071,
+      "source_sha256": "dcaa651e42a61aef7bbbe4e98d3a9fefe1474a934eadc45a8c14120bffaaaf73"
+    },
+    {
+      "case": "n5_a1of8",
+      "loss": "1/40960",
+      "so_cost": "45128933/737280",
+      "due_so_gap": "25059821/16957440",
+      "percent_so": 3.9885720320487084e-05,
+      "percent_due_so_gap": 0.0016520469160573813,
+      "source_sha256": "1480329a9ea9d17cb12c846286ef02da99c02ea1bc5c5d5b7e7f92d4b94baf0d"
+    },
+    {
+      "case": "n5_a3of2",
+      "loss": "3303/4505600",
+      "so_cost": "2231902861/36454400",
+      "due_so_gap": "53759539/36454400",
+      "percent_so": 0.00119737615799726,
+      "percent_due_so_gap": 0.04971075501088788,
+      "source_sha256": "dccb3a5a17c03125cd09564f59b5c8b4c16f48283b215854ee99864bfd9d190e"
+    }
+  ],
+  "positive_configurations": 10,
+  "so_percent_range": [
+    3.9885720320487084e-05,
+    0.0022464767616426073
+  ],
+  "due_so_percent_range": [
+    0.001217386732570038,
+    0.04971075501088788
+  ],
+  "independent_example": {
+    "loss": "358801/3887280000",
+    "so": "4624383/431920",
+    "due": "698/65",
+    "percent_so": 0.0008620993931034211,
+    "percent_due_so_gap": 0.2894495546632065
+  },
+  "optimization_calls": 0
+}

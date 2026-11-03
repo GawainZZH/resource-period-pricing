@@ -1,0 +1,22 @@
+{
+  "original_config": {
+    "n_od": 3,
+    "paths_per_od": 3,
+    "n_dep": 12,
+    "bottleneck_type": "delayed-node",
+    "pressure": 0.75,
+    "reliability": "medium",
+    "window_width": 4,
+    "seed": 20260626019,
+    "reliability_threshold": null
+  },
+  "capacity_pressure_parameter": 0.75,
+  "realized_peak_pressure": 1.0135135135135136,
+  "n_alt": 36,
+  "n_od": 3,
+  "n_res": 15,
+  "n_resources": 14,
+  "rho_late": 1.8,
+  "eta": 0.74,
+  "retained_resource_rows": 62
+}

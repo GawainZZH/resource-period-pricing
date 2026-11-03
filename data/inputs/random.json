@@ -1,0 +1,1502 @@
+[
+  {
+    "seed": 2026062608000,
+    "pressure": 0.6913259001135866,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608001,
+    "pressure": 0.7902896188130885,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608002,
+    "pressure": 0.948087106033137,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608003,
+    "pressure": 0.84636430856093,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608004,
+    "pressure": 0.8333560527718761,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608005,
+    "pressure": 0.9651443135530748,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608006,
+    "pressure": 0.9607326852880091,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608007,
+    "pressure": 0.9698999122261105,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608008,
+    "pressure": 0.881161874709936,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608009,
+    "pressure": 0.724036808045528,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608010,
+    "pressure": 0.9289643847437241,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608011,
+    "pressure": 0.7494151724426827,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608012,
+    "pressure": 0.8870122659681167,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608013,
+    "pressure": 0.8706586170352593,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608014,
+    "pressure": 0.9164022572963878,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608015,
+    "pressure": 0.7448539981866952,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608016,
+    "pressure": 0.7747835087847934,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608017,
+    "pressure": 0.6911103673851181,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608018,
+    "pressure": 0.6925493417376826,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608019,
+    "pressure": 0.8375049466513999,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608020,
+    "pressure": 0.8112773108279333,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608021,
+    "pressure": 0.8757480566328594,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608022,
+    "pressure": 0.757349508650166,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608023,
+    "pressure": 0.8973700356339666,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608024,
+    "pressure": 0.680015559326956,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608025,
+    "pressure": 0.7130881131555248,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608026,
+    "pressure": 0.687613665046889,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608027,
+    "pressure": 0.7923457137850214,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608028,
+    "pressure": 0.6907893167405951,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608029,
+    "pressure": 0.8309686921746827,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608030,
+    "pressure": 0.8430802694666963,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608031,
+    "pressure": 0.7956960319331899,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608032,
+    "pressure": 0.7653505391532912,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608033,
+    "pressure": 0.8980178144700847,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608034,
+    "pressure": 0.7485253263946912,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608035,
+    "pressure": 0.932005643772377,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608036,
+    "pressure": 0.6965676059713044,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608037,
+    "pressure": 0.8979997287963973,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608038,
+    "pressure": 0.8399561799790493,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608039,
+    "pressure": 0.9071922259219212,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608040,
+    "pressure": 0.7411795917343694,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608041,
+    "pressure": 0.8748053940831376,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608042,
+    "pressure": 0.9228320256810122,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608043,
+    "pressure": 0.908746518798909,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608044,
+    "pressure": 0.9222130985213942,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608045,
+    "pressure": 0.7102174918386535,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608046,
+    "pressure": 0.7377286491880952,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608047,
+    "pressure": 0.8806767425723131,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608048,
+    "pressure": 0.8766521727325179,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608049,
+    "pressure": 0.8666989677692017,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608050,
+    "pressure": 0.8090650537932567,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608051,
+    "pressure": 0.9314799141305581,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608052,
+    "pressure": 0.7008787928743441,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608053,
+    "pressure": 0.9238511134820508,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608054,
+    "pressure": 0.7565060535279883,
+    "accepted": false
+  },
+  {
+    "seed": 2026062608055,
+    "pressure": 0.7486678828251637,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608056,
+    "pressure": 0.95368909699809,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608057,
+    "pressure": 0.6912719760995771,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608058,
+    "pressure": 0.8000934340137174,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608059,
+    "pressure": 0.9116313378236224,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608060,
+    "pressure": 0.8099005046843499,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608061,
+    "pressure": 0.7675883206637033,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608062,
+    "pressure": 0.7619140159417117,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608063,
+    "pressure": 0.7893052799815055,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608064,
+    "pressure": 0.9229418176849233,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608065,
+    "pressure": 0.8421829726620917,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608066,
+    "pressure": 0.7254410919059869,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608067,
+    "pressure": 0.6929719649234911,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608068,
+    "pressure": 0.8830226070808358,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608069,
+    "pressure": 0.9682036293578635,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608070,
+    "pressure": 0.8128203819227052,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608071,
+    "pressure": 0.7313665428730406,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608072,
+    "pressure": 0.8813749976203634,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608073,
+    "pressure": 0.789755053795673,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608074,
+    "pressure": 0.9521196143318509,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608075,
+    "pressure": 0.781730929761202,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608076,
+    "pressure": 0.6855068273338805,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608077,
+    "pressure": 0.7854297426280311,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608078,
+    "pressure": 0.834713287062364,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608079,
+    "pressure": 0.8437306930018176,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608080,
+    "pressure": 0.9164137376840371,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608081,
+    "pressure": 0.7088288481718171,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608082,
+    "pressure": 0.9282505553555771,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608083,
+    "pressure": 0.7033532505141007,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608084,
+    "pressure": 0.9655027919690646,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608085,
+    "pressure": 0.7961026393795814,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608086,
+    "pressure": 0.7275968248792694,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608087,
+    "pressure": 0.8241333685653668,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608088,
+    "pressure": 0.7351566849923281,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608089,
+    "pressure": 0.9656955526663538,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608090,
+    "pressure": 0.7465036438731162,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608091,
+    "pressure": 0.8555680460903046,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608092,
+    "pressure": 0.9265452422750567,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608093,
+    "pressure": 0.9411596703680427,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608094,
+    "pressure": 0.8682437545269975,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608095,
+    "pressure": 0.9453907453814909,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608096,
+    "pressure": 0.8747595771344965,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608097,
+    "pressure": 0.9367777267469909,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608098,
+    "pressure": 0.8695580533732352,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608099,
+    "pressure": 0.6829731858258605,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608100,
+    "pressure": 0.7344186646159574,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608101,
+    "pressure": 0.9180925301648417,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608102,
+    "pressure": 0.9232869021688686,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608103,
+    "pressure": 0.7224493675344607,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608104,
+    "pressure": 0.879676896042023,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608105,
+    "pressure": 0.8583066820077736,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608106,
+    "pressure": 0.7746796586936103,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608107,
+    "pressure": 0.839059008851774,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608108,
+    "pressure": 0.893283886713911,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608109,
+    "pressure": 0.7659941793243652,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608110,
+    "pressure": 0.7444723456225719,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608111,
+    "pressure": 0.7567725623324661,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608112,
+    "pressure": 0.7791438953232348,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608113,
+    "pressure": 0.7971275498355257,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608114,
+    "pressure": 0.7647363764234092,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608115,
+    "pressure": 0.7332882740099642,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608116,
+    "pressure": 0.7643939644042075,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608117,
+    "pressure": 0.7243708904191686,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608118,
+    "pressure": 0.6861773859005459,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608119,
+    "pressure": 0.7613986671647179,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608120,
+    "pressure": 0.8386677478495453,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608121,
+    "pressure": 0.8956029359926007,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608122,
+    "pressure": 0.7228600559731824,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608123,
+    "pressure": 0.6938050702152472,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608124,
+    "pressure": 0.8650000083571586,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608125,
+    "pressure": 0.8863341833036932,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608126,
+    "pressure": 0.7700241018295515,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608127,
+    "pressure": 0.9317703917769421,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608128,
+    "pressure": 0.8097905399838399,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608129,
+    "pressure": 0.7273504877238497,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608130,
+    "pressure": 0.913736614275054,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608131,
+    "pressure": 0.8892808900804022,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608132,
+    "pressure": 0.92570634354051,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608133,
+    "pressure": 0.878809923371985,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608134,
+    "pressure": 0.9593302864996245,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608135,
+    "pressure": 0.8976711274976403,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608136,
+    "pressure": 0.8844832432115672,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608137,
+    "pressure": 0.7347234792332653,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608138,
+    "pressure": 0.8881001630742906,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608139,
+    "pressure": 0.8451750350567966,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608140,
+    "pressure": 0.8384545802450687,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608141,
+    "pressure": 0.7698540283707554,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608142,
+    "pressure": 0.7594603568791782,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608143,
+    "pressure": 0.8784598512021218,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608144,
+    "pressure": 0.8344743267696955,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608145,
+    "pressure": 0.8166752219101208,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608146,
+    "pressure": 0.9276646787066043,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608147,
+    "pressure": 0.7983974056488263,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608148,
+    "pressure": 0.8683787463358568,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608149,
+    "pressure": 0.9544123671999771,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608150,
+    "pressure": 0.6975497928403129,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608151,
+    "pressure": 0.8652266091377131,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608152,
+    "pressure": 0.7014721749852422,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608153,
+    "pressure": 0.9386626983622808,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608154,
+    "pressure": 0.7769819759729928,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608155,
+    "pressure": 0.9474437833558951,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608156,
+    "pressure": 0.7655136934900736,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608157,
+    "pressure": 0.8372498962908365,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608158,
+    "pressure": 0.8168133000364195,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608159,
+    "pressure": 0.8522231064963851,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608160,
+    "pressure": 0.7518733813505147,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608161,
+    "pressure": 0.7020175266712918,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608162,
+    "pressure": 0.9354095070312366,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608163,
+    "pressure": 0.7843223682360018,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608164,
+    "pressure": 0.73796817404271,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608165,
+    "pressure": 0.9575034688996998,
+    "accepted": false
+  },
+  {
+    "seed": 2026062608166,
+    "pressure": 0.68048056682722,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608167,
+    "pressure": 0.8897585830032634,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608168,
+    "pressure": 0.8509324445735115,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608169,
+    "pressure": 0.7527410221019476,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608170,
+    "pressure": 0.7487737762948279,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608171,
+    "pressure": 0.9290340567818316,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608172,
+    "pressure": 0.7427128197719244,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608173,
+    "pressure": 0.728131340299769,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608174,
+    "pressure": 0.7529645584985217,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608175,
+    "pressure": 0.9046064175849198,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608176,
+    "pressure": 0.7388508425852718,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608177,
+    "pressure": 0.8839123122504052,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608178,
+    "pressure": 0.736650202668826,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608179,
+    "pressure": 0.7432977162634964,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608180,
+    "pressure": 0.7638965153905619,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608181,
+    "pressure": 0.895914003378202,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608182,
+    "pressure": 0.9195370389195174,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608183,
+    "pressure": 0.7760255985399601,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608184,
+    "pressure": 0.8128781821504105,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608185,
+    "pressure": 0.9367987752898798,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608186,
+    "pressure": 0.7184026065672025,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608187,
+    "pressure": 0.8659207437691778,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608188,
+    "pressure": 0.7193019438871725,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608189,
+    "pressure": 0.9332107966146199,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608190,
+    "pressure": 0.7289446694303429,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608191,
+    "pressure": 0.7889780309975069,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608192,
+    "pressure": 0.7768828259440608,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608193,
+    "pressure": 0.7316631211738884,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608194,
+    "pressure": 0.9123823229211963,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608195,
+    "pressure": 0.9643344127684633,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608196,
+    "pressure": 0.8161081189326056,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608197,
+    "pressure": 0.7048383341099929,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608198,
+    "pressure": 0.7345229643714433,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608199,
+    "pressure": 0.8021193485264465,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608200,
+    "pressure": 0.7321166192523143,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608201,
+    "pressure": 0.7446442081945155,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608202,
+    "pressure": 0.692233379054473,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608203,
+    "pressure": 0.9572694508197178,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608204,
+    "pressure": 0.7811965931800373,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608205,
+    "pressure": 0.8497246651565107,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608206,
+    "pressure": 0.7914215372855167,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608207,
+    "pressure": 0.9291570026511827,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608208,
+    "pressure": 0.8936275712686585,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608209,
+    "pressure": 0.8535098345175538,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608210,
+    "pressure": 0.8262659395126596,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608211,
+    "pressure": 0.7495327257526995,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608212,
+    "pressure": 0.833345450780694,
+    "accepted": false
+  },
+  {
+    "seed": 2026062608213,
+    "pressure": 0.725851995817676,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608214,
+    "pressure": 0.9262415245500732,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608215,
+    "pressure": 0.8649283016436052,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608216,
+    "pressure": 0.7987832450586223,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608217,
+    "pressure": 0.7941554037909385,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608218,
+    "pressure": 0.7126574440350633,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608219,
+    "pressure": 0.7296007035003949,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608220,
+    "pressure": 0.9251777454498202,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608221,
+    "pressure": 0.8403608306995571,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608222,
+    "pressure": 0.7485480052839506,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608223,
+    "pressure": 0.8786105947227641,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608224,
+    "pressure": 0.7822576441961875,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608225,
+    "pressure": 0.7774222339230186,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608226,
+    "pressure": 0.9146750021003396,
+    "accepted": false
+  },
+  {
+    "seed": 2026062608227,
+    "pressure": 0.7789252632778495,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608228,
+    "pressure": 0.7918012285476281,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608229,
+    "pressure": 0.7007904657754688,
+    "accepted": false
+  },
+  {
+    "seed": 2026062608230,
+    "pressure": 0.7301775553207822,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608231,
+    "pressure": 0.8887795861705063,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608232,
+    "pressure": 0.8601840226298594,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608233,
+    "pressure": 0.7413012390220728,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608234,
+    "pressure": 0.9574213976433832,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608235,
+    "pressure": 0.9159850378132387,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608236,
+    "pressure": 0.9384651658134497,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608237,
+    "pressure": 0.9439435277100288,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608238,
+    "pressure": 0.9499220958567816,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608239,
+    "pressure": 0.8745656459455955,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608240,
+    "pressure": 0.920825081599653,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608241,
+    "pressure": 0.851117242213997,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608242,
+    "pressure": 0.9159309464246521,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608243,
+    "pressure": 0.731779627523105,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608244,
+    "pressure": 0.8517605566795939,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608245,
+    "pressure": 0.7380976148472848,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608246,
+    "pressure": 0.9661157954484305,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608247,
+    "pressure": 0.9610453398481129,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608248,
+    "pressure": 0.7239816072802209,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608249,
+    "pressure": 0.9452266176350937,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608250,
+    "pressure": 0.9424217497556258,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608251,
+    "pressure": 0.9242827451537203,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608252,
+    "pressure": 0.9206398428395837,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608253,
+    "pressure": 0.8387166718889445,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608254,
+    "pressure": 0.879464213063134,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608255,
+    "pressure": 0.9080984480296943,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608256,
+    "pressure": 0.7750695947507705,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608257,
+    "pressure": 0.9260485821641198,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608258,
+    "pressure": 0.7067023549914982,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608259,
+    "pressure": 0.8252629710006247,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608260,
+    "pressure": 0.805047710561796,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608261,
+    "pressure": 0.9440691971935913,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608262,
+    "pressure": 0.8238785116996736,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608263,
+    "pressure": 0.9329754868831022,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608264,
+    "pressure": 0.8876045519543823,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608265,
+    "pressure": 0.9444381417507024,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608266,
+    "pressure": 0.94953876634787,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608267,
+    "pressure": 0.7559682617596251,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608268,
+    "pressure": 0.9005891529501475,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608269,
+    "pressure": 0.7638726178020577,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608270,
+    "pressure": 0.7188523969340038,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608271,
+    "pressure": 0.8052229053255213,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608272,
+    "pressure": 0.7821267643462166,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608273,
+    "pressure": 0.8151422572507079,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608274,
+    "pressure": 0.7997557028404813,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608275,
+    "pressure": 0.7860260914981467,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608276,
+    "pressure": 0.8056479998398118,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608277,
+    "pressure": 0.8566167917675624,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608278,
+    "pressure": 0.832667734142692,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608279,
+    "pressure": 0.7359691014073587,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608280,
+    "pressure": 0.7437872080267341,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608281,
+    "pressure": 0.8617337451805809,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608282,
+    "pressure": 0.7298987737421266,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608283,
+    "pressure": 0.7830817456963068,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608284,
+    "pressure": 0.9647829547254394,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608285,
+    "pressure": 0.770580903854995,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608286,
+    "pressure": 0.7700744415301297,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608287,
+    "pressure": 0.7128990090347939,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608288,
+    "pressure": 0.7816530132692661,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608289,
+    "pressure": 0.8466713429301311,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608290,
+    "pressure": 0.8732729058320015,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608291,
+    "pressure": 0.7462881644910789,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608292,
+    "pressure": 0.8023670046053936,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608293,
+    "pressure": 0.7216319589722476,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608294,
+    "pressure": 0.7608260378310374,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608295,
+    "pressure": 0.9045612908328895,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608296,
+    "pressure": 0.7276230523054257,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608297,
+    "pressure": 0.7628771490569854,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608298,
+    "pressure": 0.6903729474257139,
+    "accepted": true
+  },
+  {
+    "seed": 2026062608299,
+    "pressure": 0.7955286185910796,
+    "accepted": true
+  }
+]

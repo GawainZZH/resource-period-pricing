@@ -1,0 +1,10 @@
+{
+  "started": true,
+  "authorized_calls": 1,
+  "price_class_LPs": 4,
+  "VI": 0,
+  "NLP": 0,
+  "global": 0,
+  "internal_seconds_per_LP": 15,
+  "worker_seconds": 90
+}

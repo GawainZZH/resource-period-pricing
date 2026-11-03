@@ -1,0 +1,12 @@
+{
+  "exact_witnesses_passed": 96,
+  "targets": 24,
+  "networks": 12,
+  "all_input_hashes_match": true,
+  "maximum_target_change": 2.3814283878209608e-14,
+  "maximum_normalized_interval_width": 1.5426008868882988e-16,
+  "maximum_numerical_zero_upper": 3.006762307253302e-17,
+  "minimum_positive_lower": 0.0004316709784824171,
+  "rational_acceptance_and_classifications_verified": true,
+  "scope": "Fixed repaired approximate-SO targets; no exact-SO classification theorem asserted"
+}

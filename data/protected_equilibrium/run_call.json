@@ -1,0 +1,10 @@
+{
+  "started": true,
+  "authorized_calls": 1,
+  "max_vi_calls": 1,
+  "max_gap_calls": 1,
+  "other_solver_calls": 0,
+  "vi_seconds": 120,
+  "gap_seconds": 30,
+  "max_nfev": 600
+}

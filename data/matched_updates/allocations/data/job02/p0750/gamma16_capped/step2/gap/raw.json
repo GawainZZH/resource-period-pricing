@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "iterations": 31,
+  "seconds": 0.0027297998312860727
+}

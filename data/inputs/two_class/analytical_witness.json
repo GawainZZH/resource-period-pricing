@@ -1,0 +1,31 @@
+{
+  "baseline_closed_form_so": [
+    "2765/10798",
+    "3122/5399"
+  ],
+  "baseline_unpriced_flow": [
+    "9/26",
+    "17/26"
+  ],
+  "cost_difference": "-37/200000",
+  "feasible_improved_flow": [
+    "463/1300",
+    "837/1300"
+  ],
+  "improved_cost": "27919519/2600000",
+  "node_optimal_class_loss_not_computed": true,
+  "node_so_implementation": false,
+  "other_four_states_solved": false,
+  "required_net_prices": [
+    "171207/215960",
+    "16941/21596"
+  ],
+  "so_gradient": [
+    "0",
+    "0"
+  ],
+  "social_direction_with_penalty": "-1/40",
+  "social_direction_without_penalty": "1/65",
+  "type": "exact_algebraic_verification_not_numerical_optimization",
+  "unpriced_cost": "698/65"
+}

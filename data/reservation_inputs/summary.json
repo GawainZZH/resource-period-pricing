@@ -1,0 +1,73 @@
+{
+  "nominal_passed": true,
+  "protected_execution_passed": true,
+  "constructors": {
+    "controlled_synthetic_study.py": {
+      "sha256": "caf321675a1d543eff23d424c948772b2490784c49396696d904e86246f24d30",
+      "selected": [
+        "StudyConfig",
+        "SyntheticInstance",
+        "_softmax_profile",
+        "build_metropolitan_corridor_instance"
+      ]
+    },
+    "high_precision_so_audit.py": {
+      "sha256": "6a634ee21311f396b1796a230e7e9ecdebff2063dd23f7e2c3defa24e3130835",
+      "selected": [
+        "ResourceProblem"
+      ]
+    },
+    "operational_reservation_validation.py": {
+      "sha256": "aae154e58710535b36d6ff84924eddc97c6e77b837ba3ce971dcc985b07d45c7",
+      "selected": [
+        "knots_to_km_min",
+        "reservation_slots",
+        "OperationalCase",
+        "build_operational_case"
+      ]
+    },
+    "reservation_buffer_diagnostic.py": {
+      "sha256": "393550907a695987639cd102ec59e9f1e799235468bbe23d464d1737d99dc4f9",
+      "selected": [
+        "Stage",
+        "reconstruct"
+      ]
+    },
+    "protected_reservation_pilot.py": {
+      "sha256": "37c14c36b1087d1b1e1b9ce1c2412a77646d6f95e30f6f60bb2a3090ef77bfa1",
+      "selected": [
+        "ProtectedCase",
+        "protected_length",
+        "build_protected_case",
+        "execution_metrics",
+        "audit_routes"
+      ]
+    }
+  },
+  "new_nominal_solver_calls": 0,
+  "new_capacity_lp_calls": 1,
+  "new_DUE_SO_or_price_solves": 0,
+  "original_two_channel_maximum": 38,
+  "manuscript_modified": false,
+  "notation_modified": false,
+  "baseline_pages": [
+    34,
+    56
+  ],
+  "protected_candidate": {
+    "new_capacity_lp_calls": 1,
+    "success": true,
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "maximum_assigned": 40.0,
+    "required": 40.0,
+    "exact_primal_feasible": true,
+    "exact_assigned": "40",
+    "exact_upper": "40",
+    "exact_optimum_proved": true,
+    "full_demand_feasible": true,
+    "integer_assignment": true,
+    "execution_passed": true
+  },
+  "unchanged_original_files": 380,
+  "implementation_sha256": "6fcf5ba3077057ba78250c0696cfd1012f7eda468b4aaa57d7dfb529be3b7b3e"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "optimal_inaccurate",
+  "objective": 1391.712685598485,
+  "objective_raw_text": "1391.712685598485",
+  "seconds": 0.08483879989944398,
+  "error": null,
+  "iterations": 24,
+  "available": {
+    "flow": true,
+    "risk": true,
+    "u": true,
+    "v": true,
+    "mixed_rows": true,
+    "pure_rows": true
+  }
+}

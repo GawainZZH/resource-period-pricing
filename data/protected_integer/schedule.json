@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "requests": 40,
+  "stage_reservations": 280,
+  "all_original_capacities_exact": true,
+  "all_stage_handoffs_exact": true,
+  "all_position_intervals_nonoverlapping": true,
+  "all_completion_times_within_reservations": true,
+  "minimum_stage_buffer_exact": "13330654897016665/36028797018963968",
+  "minimum_stage_buffer_minutes": 0.3699999999999999,
+  "scope": "Integer reservations and stage budgets; no microscopic trajectory optimization"
+}

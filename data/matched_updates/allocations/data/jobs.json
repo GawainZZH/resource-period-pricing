@@ -1,0 +1,146 @@
+[
+  {
+    "instance": 1,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 3.0301707999315113
+  },
+  {
+    "instance": 2,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 4.029527900042012
+  },
+  {
+    "instance": 3,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 2.926839099964127
+  },
+  {
+    "instance": 4,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.782244300004095
+  },
+  {
+    "instance": 5,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 3.482317600166425
+  },
+  {
+    "instance": 6,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.8069366000127047
+  },
+  {
+    "instance": 7,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 2.894154499983415
+  },
+  {
+    "instance": 8,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 4.097947600064799
+  },
+  {
+    "instance": 9,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 3.9942373000085354
+  },
+  {
+    "instance": 10,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 3.3404802000150084
+  },
+  {
+    "instance": 11,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.741030399920419
+  },
+  {
+    "instance": 12,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.7514112999197096
+  },
+  {
+    "instance": 13,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 2.941417899914086
+  },
+  {
+    "instance": 14,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 3.857086200034246
+  },
+  {
+    "instance": 15,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 2.970505400095135
+  },
+  {
+    "instance": 16,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.7781796001363546
+  },
+  {
+    "instance": 17,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.7537873000837862
+  },
+  {
+    "instance": 18,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.7267936998978257
+  },
+  {
+    "instance": 19,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 2.936706099892035
+  },
+  {
+    "instance": 20,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 4.2577290998306125
+  },
+  {
+    "instance": 21,
+    "original_pressure": 0.75,
+    "returncode": 0,
+    "seconds": 3.684604999842122
+  },
+  {
+    "instance": 22,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.7597002000547945
+  },
+  {
+    "instance": 23,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.725328400032595
+  },
+  {
+    "instance": 24,
+    "original_pressure": 0.95,
+    "returncode": 0,
+    "seconds": 2.761544699780643
+  }
+]

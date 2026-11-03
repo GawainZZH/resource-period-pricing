@@ -1,0 +1,8 @@
+{
+  "started": true,
+  "authorized_calls": 1,
+  "price_rref_limit": 1,
+  "worker_seconds": 60,
+  "batch_compute_seconds": 90,
+  "optimization_calls": 0
+}

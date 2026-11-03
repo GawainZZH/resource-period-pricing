@@ -1,0 +1,11 @@
+{
+  "scale": 3,
+  "success": true,
+  "continuous_cost": 3284.8647457242537,
+  "continuous_lower": 3284.864745724247,
+  "integer_cost_upper": 3295.9738647242957,
+  "relative_cost_bound": 0.0033819106295043242,
+  "l1_distance": 28.460292874440114,
+  "capacity_violation": 0.0,
+  "distance_optimal": true
+}

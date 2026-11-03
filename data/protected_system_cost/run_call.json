@@ -1,0 +1,13 @@
+{
+  "started": true,
+  "authorized_calls": 1,
+  "candidate": 1,
+  "gap": 1,
+  "conic": 1,
+  "VI": 0,
+  "prices": 0,
+  "candidate_seconds": 120,
+  "gap_seconds": 30,
+  "conic_seconds": 60,
+  "retries": 0
+}

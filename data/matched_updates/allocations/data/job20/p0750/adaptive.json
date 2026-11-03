@@ -1,0 +1,23 @@
+{
+  "upper": 2.407116949354116,
+  "steps": 8,
+  "cap_source": "delay-only estimate at common initial DUE",
+  "arms": [
+    [
+      0.16,
+      false
+    ],
+    [
+      0.16,
+      true
+    ],
+    [
+      0.24,
+      false
+    ],
+    [
+      0.24,
+      true
+    ]
+  ]
+}

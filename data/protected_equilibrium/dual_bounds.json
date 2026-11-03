@@ -1,0 +1,29 @@
+{
+  "original_gate_passed": false,
+  "independent_gate_passed": true,
+  "new_solver_calls": 0,
+  "exact_dual_feasible": true,
+  "exact_primal_witness_feasible": true,
+  "gap_lower": 2.953197020795468e-10,
+  "gap_upper": 8.918533365814122e-10,
+  "bound_width": 5.965336345018654e-10,
+  "gap_lower_exact": "6743909814458315200821679422091910147/22835963083295358096932575511191922182123945984",
+  "gap_upper_exact": "1303445111672762694009639104535760763247/1461501637330902918203684832716283019655932542976",
+  "bound_width_exact": "871834883547430521157051621521878513839/1461501637330902918203684832716283019655932542976",
+  "dual_lower_exact": "2047494505836768642866111193718266400160279353001809/1461501637330902918203684832716283019655932542976",
+  "feasibility": {
+    "nonnegativity_violation": 3.0866323124008207e-14,
+    "capacity_violation": 8.260059303211165e-14,
+    "demand_violation": 4.085620730620576e-14
+  },
+  "unchanged_thresholds": {
+    "gap": 1e-07,
+    "bound_width": 1e-09
+  },
+  "dual_source": "saved VI KKT multipliers with conservative exact equality-dual repair",
+  "primal_source": "same saved direct gap LP witness",
+  "original_result_sha256": "d5b6c17331bfbf59d3ba1dce661578081c9f3c9ff7bfcdce9d846b302af3c1d1",
+  "source_sha256": "7bdd09e0b8474699973dd68f1aa2d451d18a948bf5a23958fe6f1989c10616e6",
+  "protected_files_unchanged": true,
+  "original_solver_evidence_unchanged": true
+}

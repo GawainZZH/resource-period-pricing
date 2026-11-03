@@ -1,0 +1,2 @@
+Panel type,Instances,Mean alternatives,Mean resources,Resource periods,Mean solve time seconds,Mean DUE VI residual,Mean priced-DUE VI residual,Mean capacity violation,Mean DUE binding frequency,Mean SO binding frequency,Mean priced binding frequency,Mean PoA,Mean all-resource delay recovery
+active hard-capacity,10,500.0,80.0,26.2,11.457789889990817,0.0001887632006571395,0.00015750539274631738,3.3306690738754695e-17,0.08860859903413366,0.027444843187219646,0.09103228219551353,1.0383461116732637,0.6072158705221858

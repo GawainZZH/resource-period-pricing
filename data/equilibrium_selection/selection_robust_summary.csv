@@ -1,0 +1,2 @@
+instances,mean_optimistic_class_value,mean_selection_robust_class_value,minimum_selection_robust_class_value,maximum_selection_robust_class_value,mean_selection_exposure,positive_selection_exposure_frequency,maximum_vi_gap
+12.0,1.55991039727918e-30,0.29910571330620855,0.1792528890925302,0.4356000000000005,0.29910571330620855,1.0,2.6215438549925585e-16

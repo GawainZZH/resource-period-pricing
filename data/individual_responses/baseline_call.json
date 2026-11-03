@@ -1,0 +1,5 @@
+{
+  "integer_equilibrium_searches": 1,
+  "max_moves": 200,
+  "seconds": 90
+}

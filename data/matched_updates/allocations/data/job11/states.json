@@ -1,0 +1,30 @@
+[
+  {
+    "instance": 11,
+    "method": "due",
+    "p": 0.95,
+    "step": 0,
+    "path": "p0950/due",
+    "status": "optimal_inaccurate",
+    "accepted": true,
+    "social_cost": 70.90164281995662,
+    "gap_upper": 3.9717467973718035e-09,
+    "feasibility": 1.6644463585180347e-12,
+    "gcr": null,
+    "normalized_gap": 5.601769774866034e-11
+  },
+  {
+    "instance": 11,
+    "method": "so",
+    "p": 0.95,
+    "step": 0,
+    "path": "p0950/so",
+    "status": "optimal_inaccurate",
+    "accepted": false,
+    "social_cost": 68.72652128645785,
+    "gap_upper": 4.0956387625208324e-05,
+    "feasibility": 8.881784197001252e-16,
+    "gcr": null,
+    "normalized_gap": 4.08490967013894e-07
+  }
+]

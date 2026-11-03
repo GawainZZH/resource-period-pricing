@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "n5_a0of1",
+    "heterogeneity": "0",
+    "family": {
+      "n": 5,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "251/20",
+      "beta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "delta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "8041/640",
+        "8041/640",
+        "8041/640",
+        "8041/640",
+        "8041/640"
+      ],
+      "gamma": "1",
+      "K": "5/2"
+    },
+    "protection": {
+      "step": "1/4000",
+      "TF": "5",
+      "WF": "401/32",
+      "TS": "1003/80",
+      "WS": "5031/400",
+      "M": "10",
+      "Kplus": "15/4",
+      "service": "1/400"
+    },
+    "ellF": "241/32",
+    "ellS": "1/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/241",
+        "net_price_interval": [
+          "-4/1205",
+          "5/8"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/241",
+        "net_price_interval": [
+          "-8/1205",
+          "5/4"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/241",
+        "net_price_interval": [
+          "-12/1205",
+          "15/8"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/241",
+        "net_price_interval": [
+          "-16/1205",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/241",
+        "net_price_interval": [
+          "-24/1205",
+          "15/4"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/241",
+        "net_price_interval": [
+          "-32/1205",
+          "5"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-39/40",
+      "4583/1280"
+    ],
+    "minimum_fast_deadline_margin": "5/128",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n5_a1of8",
+    "heterogeneity": "1/8",
+    "family": {
+      "n": 5,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "251/20",
+      "beta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "delta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "8039/640",
+        "201/16",
+        "8041/640",
+        "4021/320",
+        "8043/640"
+      ],
+      "gamma": "1",
+      "K": "5/2"
+    },
+    "protection": {
+      "step": "1/4000",
+      "TF": "5",
+      "WF": "401/32",
+      "TS": "1003/80",
+      "WS": "5031/400",
+      "M": "10",
+      "Kplus": "15/4",
+      "service": "1/400"
+    },
+    "ellF": "241/32",
+    "ellS": "1/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/241",
+        "net_price_interval": [
+          "-4/1205",
+          "5/8"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/241",
+        "net_price_interval": [
+          "-8/1205",
+          "5/4"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/241",
+        "net_price_interval": [
+          "-12/1205",
+          "15/8"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/241",
+        "net_price_interval": [
+          "-16/1205",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/241",
+        "net_price_interval": [
+          "-24/1205",
+          "15/4"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/241",
+        "net_price_interval": [
+          "-32/1205",
+          "5"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-39/40",
+      "917/256"
+    ],
+    "minimum_fast_deadline_margin": "23/640",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n5_a1of4",
+    "heterogeneity": "1/4",
+    "family": {
+      "n": 5,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "251/20",
+      "beta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "delta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "8037/640",
+        "8039/640",
+        "8041/640",
+        "8043/640",
+        "1609/128"
+      ],
+      "gamma": "1",
+      "K": "5/2"
+    },
+    "protection": {
+      "step": "1/4000",
+      "TF": "5",
+      "WF": "401/32",
+      "TS": "1003/80",
+      "WS": "5031/400",
+      "M": "10",
+      "Kplus": "15/4",
+      "service": "1/400"
+    },
+    "ellF": "241/32",
+    "ellS": "1/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/241",
+        "net_price_interval": [
+          "-4/1205",
+          "5/8"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/241",
+        "net_price_interval": [
+          "-8/1205",
+          "5/4"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/241",
+        "net_price_interval": [
+          "-12/1205",
+          "15/8"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/241",
+        "net_price_interval": [
+          "-16/1205",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/241",
+        "net_price_interval": [
+          "-24/1205",
+          "15/4"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/241",
+        "net_price_interval": [
+          "-32/1205",
+          "5"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-39/40",
+      "4587/1280"
+    ],
+    "minimum_fast_deadline_margin": "21/640",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n5_a1of2",
+    "heterogeneity": "1/2",
+    "family": {
+      "n": 5,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "251/20",
+      "beta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "delta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "8033/640",
+        "8037/640",
+        "8041/640",
+        "1609/128",
+        "8049/640"
+      ],
+      "gamma": "1",
+      "K": "5/2"
+    },
+    "protection": {
+      "step": "1/4000",
+      "TF": "5",
+      "WF": "401/32",
+      "TS": "1003/80",
+      "WS": "5031/400",
+      "M": "10",
+      "Kplus": "15/4",
+      "service": "1/400"
+    },
+    "ellF": "241/32",
+    "ellS": "1/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/241",
+        "net_price_interval": [
+          "-4/1205",
+          "5/8"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/241",
+        "net_price_interval": [
+          "-8/1205",
+          "5/4"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/241",
+        "net_price_interval": [
+          "-12/1205",
+          "15/8"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/241",
+        "net_price_interval": [
+          "-16/1205",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/241",
+        "net_price_interval": [
+          "-24/1205",
+          "15/4"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/241",
+        "net_price_interval": [
+          "-32/1205",
+          "5"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-39/40",
+      "4591/1280"
+    ],
+    "minimum_fast_deadline_margin": "17/640",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n5_a1of1",
+    "heterogeneity": "1",
+    "family": {
+      "n": 5,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "251/20",
+      "beta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "delta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "1605/128",
+        "8033/640",
+        "8041/640",
+        "8049/640",
+        "8057/640"
+      ],
+      "gamma": "1",
+      "K": "5/2"
+    },
+    "protection": {
+      "step": "1/4000",
+      "TF": "5",
+      "WF": "401/32",
+      "TS": "1003/80",
+      "WS": "5031/400",
+      "M": "10",
+      "Kplus": "15/4",
+      "service": "1/400"
+    },
+    "ellF": "241/32",
+    "ellS": "1/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/241",
+        "net_price_interval": [
+          "-4/1205",
+          "5/8"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/241",
+        "net_price_interval": [
+          "-8/1205",
+          "5/4"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/241",
+        "net_price_interval": [
+          "-12/1205",
+          "15/8"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/241",
+        "net_price_interval": [
+          "-16/1205",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/241",
+        "net_price_interval": [
+          "-24/1205",
+          "15/4"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/241",
+        "net_price_interval": [
+          "-32/1205",
+          "5"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-39/40",
+      "4599/1280"
+    ],
+    "minimum_fast_deadline_margin": "9/640",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n5_a3of2",
+    "heterogeneity": "3/2",
+    "family": {
+      "n": 5,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "251/20",
+      "beta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "delta": [
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40",
+        "1/40"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "8017/640",
+        "8029/640",
+        "8041/640",
+        "8053/640",
+        "1613/128"
+      ],
+      "gamma": "1",
+      "K": "5/2"
+    },
+    "protection": {
+      "step": "1/4000",
+      "TF": "5",
+      "WF": "401/32",
+      "TS": "1003/80",
+      "WS": "5031/400",
+      "M": "10",
+      "Kplus": "15/4",
+      "service": "1/400"
+    },
+    "ellF": "241/32",
+    "ellS": "1/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/241",
+        "net_price_interval": [
+          "-4/1205",
+          "5/8"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/241",
+        "net_price_interval": [
+          "-8/1205",
+          "5/4"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/241",
+        "net_price_interval": [
+          "-12/1205",
+          "15/8"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/241",
+        "net_price_interval": [
+          "-16/1205",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/241",
+        "net_price_interval": [
+          "-24/1205",
+          "15/4"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/241",
+        "net_price_interval": [
+          "-32/1205",
+          "5"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-39/40",
+      "4607/1280"
+    ],
+    "minimum_fast_deadline_margin": "1/640",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n20_a0of1",
+    "heterogeneity": "0",
+    "family": {
+      "n": 20,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "101/5",
+      "beta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "delta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160",
+        "3241/160"
+      ],
+      "gamma": "1",
+      "K": "10"
+    },
+    "protection": {
+      "step": "1/1000",
+      "TF": "5",
+      "WF": "161/8",
+      "TS": "403/20",
+      "WS": "2031/100",
+      "M": "40",
+      "Kplus": "15",
+      "service": "1/100"
+    },
+    "ellF": "121/8",
+    "ellS": "4/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/121",
+        "net_price_interval": [
+          "-16/605",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/121",
+        "net_price_interval": [
+          "-32/605",
+          "5"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/121",
+        "net_price_interval": [
+          "-48/605",
+          "15/2"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/121",
+        "net_price_interval": [
+          "-64/605",
+          "10"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/121",
+        "net_price_interval": [
+          "-96/605",
+          "15"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/121",
+        "net_price_interval": [
+          "-128/605",
+          "20"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-9/10",
+      "3623/320"
+    ],
+    "minimum_fast_deadline_margin": "5/32",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n20_a1of8",
+    "heterogeneity": "1/8",
+    "family": {
+      "n": 20,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "101/5",
+      "beta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "delta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "3239/160",
+        "12309/608",
+        "61549/3040",
+        "61553/3040",
+        "61557/3040",
+        "61561/3040",
+        "12313/608",
+        "61569/3040",
+        "61573/3040",
+        "61577/3040",
+        "61581/3040",
+        "12317/608",
+        "61589/3040",
+        "61593/3040",
+        "61597/3040",
+        "61601/3040",
+        "12321/608",
+        "61609/3040",
+        "61613/3040",
+        "3243/160"
+      ],
+      "gamma": "1",
+      "K": "10"
+    },
+    "protection": {
+      "step": "1/1000",
+      "TF": "5",
+      "WF": "161/8",
+      "TS": "403/20",
+      "WS": "2031/100",
+      "M": "40",
+      "Kplus": "15",
+      "service": "1/100"
+    },
+    "ellF": "121/8",
+    "ellS": "4/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/121",
+        "net_price_interval": [
+          "-16/605",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/121",
+        "net_price_interval": [
+          "-32/605",
+          "5"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/121",
+        "net_price_interval": [
+          "-48/605",
+          "15/2"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/121",
+        "net_price_interval": [
+          "-64/605",
+          "10"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/121",
+        "net_price_interval": [
+          "-96/605",
+          "15"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/121",
+        "net_price_interval": [
+          "-128/605",
+          "20"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-9/10",
+      "725/64"
+    ],
+    "minimum_fast_deadline_margin": "23/160",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n20_a1of4",
+    "heterogeneity": "1/4",
+    "family": {
+      "n": 20,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "101/5",
+      "beta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "delta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "3237/160",
+        "61511/3040",
+        "61519/3040",
+        "61527/3040",
+        "12307/608",
+        "61543/3040",
+        "61551/3040",
+        "61559/3040",
+        "61567/3040",
+        "12315/608",
+        "61583/3040",
+        "61591/3040",
+        "61599/3040",
+        "61607/3040",
+        "12323/608",
+        "61623/3040",
+        "61631/3040",
+        "61639/3040",
+        "61647/3040",
+        "649/32"
+      ],
+      "gamma": "1",
+      "K": "10"
+    },
+    "protection": {
+      "step": "1/1000",
+      "TF": "5",
+      "WF": "161/8",
+      "TS": "403/20",
+      "WS": "2031/100",
+      "M": "40",
+      "Kplus": "15",
+      "service": "1/100"
+    },
+    "ellF": "121/8",
+    "ellS": "4/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/121",
+        "net_price_interval": [
+          "-16/605",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/121",
+        "net_price_interval": [
+          "-32/605",
+          "5"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/121",
+        "net_price_interval": [
+          "-48/605",
+          "15/2"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/121",
+        "net_price_interval": [
+          "-64/605",
+          "10"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/121",
+        "net_price_interval": [
+          "-96/605",
+          "15"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/121",
+        "net_price_interval": [
+          "-128/605",
+          "20"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-9/10",
+      "3627/320"
+    ],
+    "minimum_fast_deadline_margin": "21/160",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n20_a1of2",
+    "heterogeneity": "1/2",
+    "family": {
+      "n": 20,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "101/5",
+      "beta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "delta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "3233/160",
+        "61443/3040",
+        "61459/3040",
+        "12295/608",
+        "61491/3040",
+        "61507/3040",
+        "61523/3040",
+        "61539/3040",
+        "12311/608",
+        "61571/3040",
+        "61587/3040",
+        "61603/3040",
+        "61619/3040",
+        "12327/608",
+        "61651/3040",
+        "61667/3040",
+        "61683/3040",
+        "61699/3040",
+        "12343/608",
+        "3249/160"
+      ],
+      "gamma": "1",
+      "K": "10"
+    },
+    "protection": {
+      "step": "1/1000",
+      "TF": "5",
+      "WF": "161/8",
+      "TS": "403/20",
+      "WS": "2031/100",
+      "M": "40",
+      "Kplus": "15",
+      "service": "1/100"
+    },
+    "ellF": "121/8",
+    "ellS": "4/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/121",
+        "net_price_interval": [
+          "-16/605",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/121",
+        "net_price_interval": [
+          "-32/605",
+          "5"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/121",
+        "net_price_interval": [
+          "-48/605",
+          "15/2"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/121",
+        "net_price_interval": [
+          "-64/605",
+          "10"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/121",
+        "net_price_interval": [
+          "-96/605",
+          "15"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/121",
+        "net_price_interval": [
+          "-128/605",
+          "20"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-9/10",
+      "3631/320"
+    ],
+    "minimum_fast_deadline_margin": "17/160",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n20_a1of1",
+    "heterogeneity": "1",
+    "family": {
+      "n": 20,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "101/5",
+      "beta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "delta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "645/32",
+        "61307/3040",
+        "61339/3040",
+        "61371/3040",
+        "61403/3040",
+        "12287/608",
+        "61467/3040",
+        "61499/3040",
+        "61531/3040",
+        "61563/3040",
+        "12319/608",
+        "61627/3040",
+        "61659/3040",
+        "61691/3040",
+        "61723/3040",
+        "12351/608",
+        "61787/3040",
+        "61819/3040",
+        "61851/3040",
+        "3257/160"
+      ],
+      "gamma": "1",
+      "K": "10"
+    },
+    "protection": {
+      "step": "1/1000",
+      "TF": "5",
+      "WF": "161/8",
+      "TS": "403/20",
+      "WS": "2031/100",
+      "M": "40",
+      "Kplus": "15",
+      "service": "1/100"
+    },
+    "ellF": "121/8",
+    "ellS": "4/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/121",
+        "net_price_interval": [
+          "-16/605",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/121",
+        "net_price_interval": [
+          "-32/605",
+          "5"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/121",
+        "net_price_interval": [
+          "-48/605",
+          "15/2"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/121",
+        "net_price_interval": [
+          "-64/605",
+          "10"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/121",
+        "net_price_interval": [
+          "-96/605",
+          "15"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/121",
+        "net_price_interval": [
+          "-128/605",
+          "20"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-9/10",
+      "3639/320"
+    ],
+    "minimum_fast_deadline_margin": "9/160",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  },
+  {
+    "id": "n20_a3of2",
+    "heterogeneity": "3/2",
+    "family": {
+      "n": 20,
+      "Q": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "F": "10",
+      "S": "101/5",
+      "beta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "delta": [
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10",
+        "1/10"
+      ],
+      "theta": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "L": [
+        "3217/160",
+        "61171/3040",
+        "61219/3040",
+        "61267/3040",
+        "12263/608",
+        "61363/3040",
+        "61411/3040",
+        "61459/3040",
+        "61507/3040",
+        "12311/608",
+        "61603/3040",
+        "61651/3040",
+        "61699/3040",
+        "61747/3040",
+        "12359/608",
+        "61843/3040",
+        "61891/3040",
+        "61939/3040",
+        "61987/3040",
+        "653/32"
+      ],
+      "gamma": "1",
+      "K": "10"
+    },
+    "protection": {
+      "step": "1/1000",
+      "TF": "5",
+      "WF": "161/8",
+      "TS": "403/20",
+      "WS": "2031/100",
+      "M": "40",
+      "Kplus": "15",
+      "service": "1/100"
+    },
+    "ellF": "121/8",
+    "ellS": "4/25",
+    "caps": [
+      {
+        "normalized_cap": "0",
+        "rate_cap": "0",
+        "net_price_interval": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "normalized_cap": "1/4",
+        "rate_cap": "20/121",
+        "net_price_interval": [
+          "-16/605",
+          "5/2"
+        ]
+      },
+      {
+        "normalized_cap": "1/2",
+        "rate_cap": "40/121",
+        "net_price_interval": [
+          "-32/605",
+          "5"
+        ]
+      },
+      {
+        "normalized_cap": "3/4",
+        "rate_cap": "60/121",
+        "net_price_interval": [
+          "-48/605",
+          "15/2"
+        ]
+      },
+      {
+        "normalized_cap": "1",
+        "rate_cap": "80/121",
+        "net_price_interval": [
+          "-64/605",
+          "10"
+        ]
+      },
+      {
+        "normalized_cap": "3/2",
+        "rate_cap": "120/121",
+        "net_price_interval": [
+          "-96/605",
+          "15"
+        ]
+      },
+      {
+        "normalized_cap": "2",
+        "rate_cap": "160/121",
+        "net_price_interval": [
+          "-128/605",
+          "20"
+        ]
+      }
+    ],
+    "uncapped_equivalent_interval": [
+      "-9/10",
+      "3647/320"
+    ],
+    "minimum_fast_deadline_margin": "1/160",
+    "input_checks": {
+      "fast_before_deadline": true,
+      "fast_protection": true,
+      "handoff": true,
+      "slow_protection": true,
+      "positive_service": true,
+      "grid_alignment": true,
+      "capacities": true,
+      "valid_family": true
+    }
+  }
+]

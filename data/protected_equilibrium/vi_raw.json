@@ -1,0 +1,18 @@
+{
+  "solver_success": true,
+  "status": 1,
+  "message": "`gtol` termination condition is satisfied.",
+  "nfev": 187,
+  "njev": 141,
+  "optimality": 9.53681579058798e-14,
+  "source": "raw solver return",
+  "seconds": 20.8605883999262,
+  "residual_evaluations": 187,
+  "complementarity_residual_max": 2.056799175420565e-12,
+  "feasibility": {
+    "nonnegativity_violation": 3.0866323124008207e-14,
+    "capacity_violation": 8.260059303211165e-14,
+    "demand_violation": 4.085620730620576e-14
+  },
+  "numeric_flow_postprocessing": false
+}

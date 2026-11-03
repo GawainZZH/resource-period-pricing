@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "corridor_edges": 57,
+    "resource_count": 130,
+    "used_resource_periods": 1345,
+    "speed_knots": 120,
+    "speed_km_min": 3.704,
+    "coordinate_scale_km": 5,
+    "corridor_length_min_km": 8.845903006477068,
+    "corridor_length_max_km": 29.74054471592611,
+    "headway_minutes": 2,
+    "service_minutes": 6,
+    "terminal_channels": 2,
+    "preferred_departure_minutes": [
+      30,
+      30,
+      30,
+      36,
+      30,
+      66,
+      60,
+      66,
+      66,
+      72
+    ],
+    "grid_minutes": 3,
+    "demand_per_od": 4,
+    "reservation_horizon_minutes": 117.0,
+    "route_cruise_min_minutes": 8.457958445642479,
+    "route_cruise_max_minutes": 13.062565553665376,
+    "rho_per_period": 0.30000000000000004,
+    "reliability_threshold": 0.7,
+    "origin_reservation_minutes": 9.0,
+    "destination_reservation_minutes": 9.0,
+    "cost_rule": "Protected-stage handoffs; only destination service delay extends final completion"
+  },
+  "construction": {
+    "all_budgets_pass": true,
+    "all_handoffs_pass": true,
+    "entry_overlaps_preserved": true,
+    "minimum_budget_margin": 0.3699999999999999,
+    "choices_checked": 180,
+    "stage_rows": 1260,
+    "time_identity_error": 7.105427357601002e-15,
+    "worst_completion_margin": 1.2000000000000028
+  },
+  "capacity": {
+    "lp_success": true,
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "full_demand_feasible": false,
+    "full_demand_infeasible_proved": true,
+    "maximum_assigned": 38.0,
+    "required_total": 40,
+    "exact_primal_feasible": true,
+    "exact_primal_total": "38",
+    "exact_dual_feasible": true,
+    "exact_dual_upper": "38",
+    "exact_optimum_proved": true,
+    "unmet_by_od": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "configuration_count": 1,
+  "capacity_lp_count": 1,
+  "new_equilibrium_solves": 0,
+  "new_outer_price_solves": 0,
+  "new_integer_solves": 0,
+  "followup_allowed": false,
+  "source_hashes": {
+    "experiments\\operational_reservation_validation.py": "aae154e58710535b36d6ff84924eddc97c6e77b837ba3ce971dcc985b07d45c7",
+    "experiments\\controlled_synthetic_study.py": "caf321675a1d543eff23d424c948772b2490784c49396696d904e86246f24d30",
+    "experiments\\high_precision_so_audit.py": "6a634ee21311f396b1796a230e7e9ecdebff2063dd23f7e2c3defa24e3130835",
+    "experiments\\resource_period_coverage.py": "620ed2348b9067bac8711f9862da22b456af215f720b07ea4a4bce0955abf4e3"
+  },
+  "script_sha256": "37c14c36b1087d1b1e1b9ce1c2412a77646d6f95e30f6f60bb2a3090ef77bfa1",
+  "execution_assumptions": [
+    "Entrance waiting fits in the upstream protected node",
+    "Early completion waits within the same protected resource until the next planned handoff",
+    "Resource occupancy protection is not a general geometric separation model"
+  ]
+}
